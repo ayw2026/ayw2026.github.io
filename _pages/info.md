@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Information"
+title: "Call, Registration and Grants"
 permalink: /info/
 author_profile: true
 ---
