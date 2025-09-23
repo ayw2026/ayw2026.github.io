@@ -27,7 +27,7 @@ Hande Yaman is Professor of Operations Research at the Faculty of Economics and 
 
 ![](/images/speaker-stefan-ropke.jpeg){: style="float: left; margin-right: 1em; max-width:148px;" }
 Stefan Røpke has been Professor of Operations Research at the Technical University of Denmark since 2012. His research has provided numerous contributions on exact and heuristic methods to solve routing and logistics problems, including the well-known Adaptive Large Neighborhood Search meta-heuristic, co-authored with David Pisinger.
-<br/> <br/> <br/> 
+<br/> <br/> <br/> <br/> 
 
 ---
 
