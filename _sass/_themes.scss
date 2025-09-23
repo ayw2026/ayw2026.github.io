@@ -103,3 +103,41 @@ $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
    
+
+.sponsor-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 1rem 1.25rem;
+  align-items: center;
+}
+
+.sponsor {
+  display: flex;
+  gap: .5rem;
+  align-items: center;
+  text-decoration: none;
+}
+
+.sponsor img {
+  max-height: 48px;
+  max-width: 140px;
+  height: auto;
+  width: auto;
+  display: block;
+}
+
+.sponsor span {
+  font-size: 0.95rem;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
