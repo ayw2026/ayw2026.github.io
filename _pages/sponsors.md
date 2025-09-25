@@ -7,7 +7,9 @@ author_profile: true
 
 We are deeply grateful for the generous support of our sponsors, whose contributions made this event possible and accessible to a wider audience.
 
+<!--
 ## Academic Sponsors
+
 
 <table>
   <thead>
@@ -21,7 +23,7 @@ We are deeply grateful for the generous support of our sponsors, whose contribut
     <tr>
       <td>
         <a href="{{ sponsor.url }}" target="_blank" rel="noopener">
-          <img src="{{ sponsor.logo | relative_url }}" alt="{{ sponsor.name }} logo" style="max-height:60px;" />
+          <img src="{{ sponsor.logo | relative_url }}" alt="{{ sponsor.name }} logo" style="max-height:128px;" />
         </a>
       </td>
       <td>
@@ -47,7 +49,7 @@ We are deeply grateful for the generous support of our sponsors, whose contribut
     <tr>
       <td>
         <a href="{{ sponsor.url }}" target="_blank" rel="noopener">
-          <img src="{{ sponsor.logo | relative_url }}" alt="{{ sponsor.name }} logo" style="max-height:60px;" />
+          <img src="{{ sponsor.logo | relative_url }}" alt="{{ sponsor.name }} logo" style="max-height:128px;" />
         </a>
       </td>
       <td>
@@ -58,3 +60,4 @@ We are deeply grateful for the generous support of our sponsors, whose contribut
     {% endfor %}
   </tbody>
 </table>
+-->

@@ -20,3 +20,5 @@ package-lock.json
 .vscode/
 
 .DS_Store
+
+*sponsors.yml

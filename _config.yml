@@ -27,18 +27,22 @@ author:
   pronouns         : # example: "she/her"
   bio              :  |
     Padova, 9–13 February 2026 <br/>
+    <div class="important-dates">
     Important dates
-    <ul style="list-style-type: none; padding-left: 0; margin-left: 0; margin-top: 0;">
-      <li> Abstract submission deadline:<br/>XX December 2025</li>
-      <li> Notification of acceptance:<br/>XX December 2025</li>
-      <li> Registration deadline:<br/>XX YY ZZZZ</li>
-      <li> Grant application deadline:<br/>XX YY ZZZZ</li>
-      <li> Ph.D. school application deadline:<br/>XX December 2025</li>
-    </ul>
+      <br/>
+      <ul style="list-style-type: none; padding-left: 0; margin-left: 0; margin-top: 1em;">
+        <li> Registration opening:<br/>02 Nov. 2025</li>
+        <li> Abstract submission deadline:<br/>10 Dec. 2025</li>
+        <li> Notification of acceptance:<br/>23 Dec. 2025</li>
+        <li> Registration deadline:<br/>28 Jan. 2026</li>
+        <li>📧 <a href="mailto:airoyoungworkshop2026@gmail.com">airoyoungworkshop2026@gmail.com</a></li>
+      </ul>
+      <br/>
+    </div>
   location         : #
   employer         : # "Red Brick University"
   uri              : # URL
-  email            : #
+  email            : # 
 
   # Academic websites
   academia         : #

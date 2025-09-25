@@ -1,0 +1,15 @@
+- name: Dipartimento di Ingegneria dell'Informazione, Università di Padova
+  url: https://www.dei.unipd.it/
+  logo: /images/sponsor-unipd-dei-logo.png
+
+- name: Dipartimento di Matematica Tullio Levi-Civita, Università di Padova
+  url: https://www.math.unipd.it/
+  logo: /images/sponsor-unipd-math-logo.jpg
+
+- name: CNR Istituto Applicazioni del Calcolo
+  url: https://www.iac.cnr.it/
+  logo: /images/sponsor-cnr-iac-logo.jpg
+
+- name: CNR Istituto di Analisi dei Sistemi ed Informatica “A. Ruberti”
+  url: https://www.iasi.cnr.it/
+  logo: /images/sponsor-cnr-iasi-logo.jpg

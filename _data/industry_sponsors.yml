@@ -1,0 +1,27 @@
+- name: Cargoful
+  url: https://www.cargoful.com   # update if different
+  logo: /images/sponsor-cargoful-logo.png
+
+- name: Decision Science Alliance
+  url: https://decisionsciencealliance.org   # update if needed
+  logo: /images/sponsor-decision-science-alliance.png
+
+- name: Fondazione LINKS
+  url: https://linksfoundation.com   # update if different
+  logo: /images/sponsor-links-foundation-logo.png
+
+- name: Gurobi
+  url: https://www.gurobi.com
+  logo: /images/sponsor-gurobi-logo.png
+
+- name: Hexaly
+  url: https://www.hexaly.com
+  logo: /images/sponsor-hexaly-logo.jpg
+
+- name: SF Express
+  url: https://www.sf-express.com
+  logo: /images/sponsor-sf-express-logo.png
+
+- name: Airo Young
+  url: https://airoyoung.airo.org/
+  logo: /images/sponsor-ay-logo.png

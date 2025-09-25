@@ -141,3 +141,33 @@ $xing-color                 : #006567;
   white-space: nowrap;
   border: 0;
 }
+
+.masthead__menu .separator::before {
+  content: "|";
+  color: #888;
+  margin: 0 0.5em;
+}
+
+@media (max-width: 768px) {
+  .masthead__menu .separator::before {
+    content: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .important-dates {
+    display: none;
+  }
+}
+
+@media (min-width: 768px) {
+  .important-dates-mobile {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .sidebar {
+    padding-top: 1em;
+  }
+}
