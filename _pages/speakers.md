@@ -5,7 +5,7 @@ permalink: /speakers/
 author_profile: true
 ---
 
-## Martine Labbè, Université Libre de Bruxelles [[ORCID]](https://orcid.org/0000-0001-7471-2308)
+## Martine Labbè Paternotte, Université Libre de Bruxelles [[ORCID]](https://orcid.org/0000-0001-7471-2308)
 
 ![](/images/speaker-martine-labbe.jpeg){: style="float: left; margin-right: 1em; max-width:148px;" }
 
@@ -47,4 +47,4 @@ As the next edition of the AIROYoung Workshop is a milestone anniversary, we inv
 - Veronica Dal Sasso, Siemens Mobility, former University of Padova [[ORCID]](https://orcid.org/0000-0001-9897-8768)
 - Valentina Morandi, Università degli Studi di Brescia [[ORCID]](https://orcid.org/0000-0003-3201-918X)
 - Serena Fugaro, Consiglio Nazionale delle Ricerche  [[ORCID]](https://orcid.org/0000-0002-7140-3531)
-- Other to be confirmed...
+- Others...

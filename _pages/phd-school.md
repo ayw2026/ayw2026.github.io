@@ -16,7 +16,7 @@ The PhD School will take place on Monday, February 9th 2025 and will feature lec
 
 ---
 
-## Francesco Rinaldi, Department of Mathematics [[ORCID]](https://orcid.org/0000-0001-8978-6027)
+## Francesco Rinaldi, University of Padova, Department of Mathematics [[ORCID]](https://orcid.org/0000-0001-8978-6027)
 
 
 ---
