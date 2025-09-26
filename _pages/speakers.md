@@ -5,7 +5,7 @@ permalink: /speakers/
 author_profile: true
 ---
 
-## Martine Labbè Paternotte, Université Libre de Bruxelles [[ORCID]](https://orcid.org/0000-0001-7471-2308)
+## Martine Labbé, Université Libre de Bruxelles [[ORCID]](https://orcid.org/0000-0001-7471-2308)
 
 ![](/images/speaker-martine-labbe.jpeg){: style="float: left; margin-right: 1em; max-width:148px;" }
 
@@ -30,7 +30,7 @@ Wolfram Wiesemann is a professor of Analytics and Operations at the Imperial Col
 
 ---
 
-## Hande Yaman, KU Leuven [[ORCID]](https://orcid.org/0000-0002-3392-1127)
+## Hande Yaman Paternotte, KU Leuven [[ORCID]](https://orcid.org/0000-0002-3392-1127)
 
 ![](/images/speaker-hande-yaman.jpeg){: style="float: left; margin-right: 1em; max-width:148px;" }  
 
