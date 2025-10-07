@@ -14,7 +14,7 @@ We are pleased to invite you to the 10th AIROYoung Workshop. After the workshops
 <div class="important-dates-mobile">
     <h2>Important dates</h2>
       <ul style="list-style-type: none; padding-left: 0; margin-left: 0; margin-top: 1em;">
-        <li> Registration opening:<br/>02 Nov. 2025</li>
+        <li> Registration opening:<br/>03 Nov. 2025</li>
         <li> Abstract submission deadline:<br/>10 Dec. 2025</li>
         <li> Notification of acceptance:<br/>23 Dec. 2025</li>
         <li> Registration deadline:<br/>28 Jan. 2026</li>
@@ -32,14 +32,14 @@ We are pleased to invite you to the 10th AIROYoung Workshop. After the workshops
 - Anthony Palmieri, Department of Mathematics, University of Padova  
 - Lorenzo Perinello, Department of Mathematics, University of Padova  
 - Matteo Pernini, ESSEC Business School
-- Alice Raffaele, Department of Information Engineering, University of Padova  
+- Alice Raffaele, Department of Information Engineering, University of Padova (chair)
 - Gabriele Sanguin, Department of Mathematics, University of Padova  
 
 ## AIROYoung Board
 
 - Matteo Cosmi, University of Luxembourg
-- Andrea Mancuso, University of Naples Federico II
 - Martina Doneda, University of Bergamo
+- Alessandro Druetto, University of Torino
+- Andrea Mancuso, University of Naples Federico II
 - Sara Stoia, University of Calabria
 - Marta Leonina Tessitore, University Roma Tre
-- Alessandro Druetto, University of Torino

@@ -5,7 +5,7 @@ permalink: /phd-school/
 author_profile: true
 ---
 
-The PhD School will take place on Monday, February 9th 2025 and will feature lectures from prominent Professors in the field of Operations Research and Optimization.
+The PhD School will take place on Monday, February 9th, 2026 and will feature lectures from prominent Professors in the field of Operations Research and Optimization affiliated with the host university.
 
 ## Marco Di Summa, University of Padova, Department of Mathematics [[ORCID]](https://www.math.unipd.it/~disumma/research.html)
 
