@@ -17,7 +17,7 @@ Matteo Fischetti is a Full Professor of Operations Research at the Department of
 
 ## Francesco Rinaldi, University of Padova, Department of Mathematics [[ORCID]](https://orcid.org/0000-0001-8978-6027)
 
-Francesco Rinaldi is a Full Professor of Mathematics at the University of Padua’s “Tullio Levi-Civita” Department. He received his Ph.D. in Operations Research from Sapienza University of Rome in 2009. His research focuses on nonlinear and derivative-free optimization, with applications in many scientific fields such as machine learning, medicine and biology.
+Francesco Rinaldi is a Full Professor of Mathematics at the University of Padua’s Math Department. He received his Ph.D. in Operations Research from Sapienza University of Rome in 2009. His research focuses on nonlinear and derivative-free optimization, with applications in many scientific fields such as machine learning, medicine and biology.
 ---
 
 ## Domenico Salvagnin, University of Padova, Department of Information Engineering [[ORCID]](https://orcid.org/0000-0002-0232-2244)
