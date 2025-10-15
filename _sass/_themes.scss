@@ -171,3 +171,39 @@ $xing-color                 : #006567;
     padding-top: 1em;
   }
 }
+
+/* Responsive container for the Google Sheet */
+.responsive-sheet {
+  position: relative;
+  width: 100%;
+  padding-bottom: 65%; /* Adjust ratio — 65% gives a nice landscape view */
+  height: 0;
+  overflow: hidden;
+  border-radius: 12px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.15);
+  background: #f9f9f9;
+}
+
+/* Style the iframe itself */
+.responsive-sheet iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+/* Optional: make the iframe look cleaner on small screens */
+@media (max-width: 768px) {
+  .responsive-sheet {
+    padding-bottom: 100%; /* Taller for mobile */
+  }
+}
+
+@media (max-width: 480px) {
+  .responsive-sheet {
+    padding-bottom: 130%; /* Even taller for very small devices */
+    border-radius: 8px;
+  }
+}
