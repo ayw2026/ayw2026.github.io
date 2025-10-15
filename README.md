@@ -53,6 +53,7 @@ When you are initially working on your website, it is very useful to be able to 
     You may also try `bundle exec jekyll serve -l -H localhost` to ensure jekyll to use specific dependencies on your own local machine.
 
 If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
+Also try `export PATH="/opt/homebrew/opt/ruby/bin:$PATH"`.
 
 ## Using Docker
 
