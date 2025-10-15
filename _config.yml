@@ -22,7 +22,7 @@ repository               : "ayw2026/ayw2026.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "fake-logo.jpg"
+  avatar           : "logo.png"
   name             : "10th AIROYoung Workshop and Ph.D. School"
   pronouns         : # example: "she/her"
   bio              :  |
