@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "10AYW"
 title_separator          : "-"
-name                     : &name "10th AIROYoung Workshop and Ph.D.. School"
+name                     : &name "10th AIROYoung Workshop and Ph.D. School"
 description              : &description "personal description"
 url                      : https://ayw2026.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "ayw2026/ayw2026.github.io"
 author:
   # Biographic information
   avatar           : "logo.png"
-  name             : "10th AIROYoung Workshop and Ph.D.. School"
+  name             : "10th AIROYoung Workshop and Ph.D. School"
   pronouns         : # example: "she/her"
   bio              :  |
     Padova, 9–13 February 2026 <br/>
