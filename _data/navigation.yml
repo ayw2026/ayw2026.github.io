@@ -19,6 +19,9 @@ main:
 
   - title: "Venue"
     url: /venue/
+  
+  - title: "Events"
+    url: /events/
 
   - title: "Sponsors"
     url: /sponsors/
