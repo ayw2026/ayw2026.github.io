@@ -10,7 +10,7 @@ If you prefer, you can also view the [Google Sheets version of the schedule](#sc
 
 ## Day 1 – Monday, February 9, 2026
 
-Ph.D School, more info in [Ph.D School page](/phd-school/).
+Ph.D. School, more info in [Ph.D. School page](/phd-school/).
 
 ## Day 2 – Tuesday, February 10, 2026
 
@@ -48,14 +48,14 @@ Ph.D School, more info in [Ph.D School page](/phd-school/).
 - **[14:00 - 15:00]** Industrial Session #2
 - **[15:00 - 16:30]** Session #12
 - **[16:30 - 17:00]** Coffee Break
-- **[17:00 - 18:30]** AIRO Young Roundtable
+- **[17:00 - 18:30]** AIROYoung Roundtable and Meeting
 - **[20:00 - 00:00]** Social Dinner
 
 ## Day 5 – Friday, February 13, 2026
 
 - **[09:00 - 10:00]** Session #13
 - **[10:00 - 10:30]** Coffee Break
-- **[10:30 - 11:30]** Plenary Talk #4 by Hande Yaman
+- **[10:30 - 11:30]** Plenary Talk #4 by Hande Yaman Paternotte
 - **[11:30 - 12:30]** Session #14
 - **[12:30 - 14:00]** Lunch Break
 - **[14:00 - 15:00]** Industrial Session #3

@@ -84,29 +84,34 @@
   display: table-cell;
   vertical-align: top;
   width: 36px;
-  // set width only, for non-square avatars
+
+  // Optional: if you want to enforce a square container for the image
   // height: 36px;
 
+  // MOBILE FIRST: styles apply to mobile unless overridden
+  img {
+    min-width: 128px; // Increase this value to make the image larger on mobile
+    border-radius: 50%;
+  }
+
+  // LARGE BREAKPOINT OVERRIDE
   @include breakpoint($large) {
     display: block;
     width: auto;
     height: auto;
-  }
 
-  img {
-    max-width: 175px;
-    border-radius: 50%;
-
-    @include breakpoint($large) {
+    img {
+      max-width: 175px; // or auto if not limiting
       padding: 5px;
       border: 1px solid var(--global-border-color);
     }
   }
 }
 
+
 .author__content {
   display: table-cell;
-  vertical-align: top;
+  vertical-align: bottom; // Added for mobile
   padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
@@ -116,6 +121,8 @@
     width: 100%;
     padding-left: 0;
     padding-right: 0;
+
+    vertical-align: top; // Optional: override for desktop, if needed
   }
 }
 
