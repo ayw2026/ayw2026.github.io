@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Call, Registration and Grants"
+title: "Call, Registration, and Grants"
 permalink: /info/
 author_profile: true
 ---
@@ -9,30 +9,28 @@ We invite all AIROYoung members, Ph.D. students, and early-stage Researchers (Ph
 
 ## Abstract Submission, Deadline 10 December 2025
 
-- Abstracts should be sent by filling the Abstract Registration Form (link to the form will be available soon).
-- Authors may choose to present their work as either a short presentation or as part of the poster session.
-- Submitted abstracts are limited to one-page length (including references) in PDF format, using the available LatexTemplate in the form. Please name your file as follows: `SURNAME_NAME_10AYW`.
-- The acceptance of the contribution will be notified to the author by email by the end of December 2025.
-- Please, note that each author can give at most one talk during the event.
+- Authors can submit an abstract to give a short presentation of their work by filling out the **Abstract Registration Form** (link to the form will be available soon).
+- Submitted abstracts must be limited to one page in length (including references), both in PDF and source file formats (.zip), using the provided LaTeX template available in the submission form. Please name your PDF file as `SURNAME_NAME_10AYW` and the ZIP archive as `SURNAME_NAME_10AYW.zip`.
+- The acceptance of the contribution will be notified to the author by email by December 23, 2025.
+- Please note that each author can give at most one talk during the event.
 
 ---
 
 ## Registration
 
-AIROYoung mission is to involve everyone in its events, independently from their funds. For this reason, our events are free for everyone and we work hard to secure some fundings to help with accommodation as well.
+AIROYoung's mission is to involve everyone in its events, regardless of their funds. For this reason, our events are free for everyone, and we work hard to secure some funding to help with accommodation.
 
-- Participants submitting an abstract, as well as simple attendees, are required to fill in the Workshop Registration Form. Link to the form will be available soon.
+Participants submitting an abstract and simple attendees are required to fill in the Workshop Registration Form. Link to the form will be available soon.
 
 ---
 
-## Grants
+## Accommodation grants
 
-Thanks to the financial support offered by AIRO and our sponsors, we are able to provide several GRANTS to cover accommodation expenses for the entire event. Grants will be awarded on a first-come, first-served basis to participants who:
+Thanks to the financial support offered by AIRO and our sponsors, we are able to provide several **accomodation grants** to cover accommodation expenses for the entire event. Grants will be awarded on a first-come, first-served basis to participants who indicate their interest in applying for the grant during the registration process and are AIRO members. Note that you are already an AIRO member if you have registered for The International Conference on Optimization and Decision Science (ODS) 2025 or if you have paid the AIRO registration fee for the year 2026.
 
-- Present their work at the Workshop,
-- Indicate their interest in applying for the grant during the registration process and
-- Are current AIRO members. In order for a grant to be confirmed, it is required to send proof of AIRO membership and travel booking to  `airoyoungworkshop2026@gmail.com` no later than 7 January 2026.
+Grants availability:
 
-Note that you are already an AIRO member if you have registered for The International Conference on Optimization and Decision Science (ODS) 2025 or if you have paid the AIRO registration fee for the year 2026.
+- 12/10 grants for those who present, regardless of their career stage.
+- 4 grants for those who do not present, but must be master’s students or first-year Ph.D. students (in this case, a certificate from a supervisor is required to confirm this).
 
 If you have further questions, you can send an email to `airoyoungworkshop2026@gmail.com` and `airo.young.researchers@gmail.com`.
