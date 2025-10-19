@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Call, Registration, and Grants"
+title: "Call and Registration"
 permalink: /info/
 author_profile: true
 ---
@@ -26,11 +26,13 @@ Participants submitting an abstract and simple attendees are required to fill in
 
 ## Accommodation grants
 
-Thanks to the financial support offered by AIRO and our sponsors, we are able to provide several **accomodation grants** to cover accommodation expenses for the entire event. Grants will be awarded on a first-come, first-served basis to participants who indicate their interest in applying for the grant during the registration process and are AIRO members. Note that you are already an AIRO member if you have registered for The International Conference on Optimization and Decision Science (ODS) 2025 or if you have paid the AIRO registration fee for the year 2026.
+Thanks to the financial support offered by AIRO and our sponsors, we are able to provide several **accommodation grants** to cover accommodation expenses for the entire event (i.e., hotel check-in on February 8, Sunday afternoon, and check-out on February 13, Friday morning)
 
 Grants availability:
 
-- 12/10 grants for those who present, regardless of their career stage.
-- 4 grants for those who do not present, but must be master’s students or first-year Ph.D. students (in this case, a certificate from a supervisor is required to confirm this).
+- 12 grants for those who, regardless of their career stage, submit an abstract to hold a presentation and whose abstract is accepted.
+- 4 grants for those who do not submit an abstract, but must be master’s or first-year Ph.D. students (in this case, a certificate from a supervisor is required to confirm this).
+
+Participants who will be awarded an accommodation grant will receive a notification by December 23, 2025, with all the instructions to follow to confirm the grant.
 
 If you have further questions, you can send an email to `airoyoungworkshop2026@gmail.com` and `airo.young.researchers@gmail.com`.

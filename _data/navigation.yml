@@ -8,7 +8,7 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Call, Registration, and Grants"
+  - title: "Call and Registration"
     url: /info/
 
   - title: "Speakers"
