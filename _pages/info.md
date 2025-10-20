@@ -10,7 +10,7 @@ We invite all AIROYoung members, Ph.D. students, and early-stage Researchers (Ph
 ## Abstract Submission, Deadline 10 December 2025
 
 - Authors can submit an abstract to give a short presentation of their work by filling out the **Abstract Registration Form** (link to the form will be available soon).
-- Submitted abstracts must be limited to one page in length (including references), both in PDF and source file formats (.zip), using the provided LaTeX template available in the submission form. Please name your PDF file as `SURNAME_NAME_10AYW` and the ZIP archive as `SURNAME_NAME_10AYW.zip`.
+- Submitted abstracts must be limited to one page in length (including references). Please use either the LaTeX or the Word template available [here](https://drive.google.com/file/d/1CvrwMNoGrqzNArSUvv-OT2wt7OgIZw5a/view?usp=share_link) and upload a ZIP file containing all source files and a PDF version of your abstract. Please name your PDF file as `SURNAME_NAME_10AYW` and the ZIP archive as `SURNAME_NAME_10AYW.zip`.
 - The acceptance of the contribution will be notified to the author by email by December 23, 2025.
 - Please note that each author can give at most one talk during the event.
 
@@ -20,13 +20,12 @@ We invite all AIROYoung members, Ph.D. students, and early-stage Researchers (Ph
 
 AIROYoung's mission is to involve everyone in its events, regardless of their funds. For this reason, our events are free for everyone, and we work hard to secure some funding to help with accommodation.
 
-Participants submitting an abstract and simple attendees are required to fill in the Workshop Registration Form. Link to the form will be available soon.
-
+Participants submitting an abstract and simple attendees are required to fill in the **Workshop Registration Form** (link to the form will be available soon).
 ---
 
 ## Accommodation grants
 
-Thanks to the financial support offered by AIRO and our sponsors, we are able to provide several **accommodation grants** to cover accommodation expenses for the entire event (i.e., hotel check-in on February 8, Sunday afternoon, and check-out on February 13, Friday morning)
+Thanks to the financial support offered by AIRO and our sponsors, we are able to provide several **accommodation grants** to cover accommodation expenses for the entire event (i.e., hotel check-in on February 8, Sunday afternoon, and check-out on February 13, Friday morning). Grants will be awarded on a first-come, first-served basis to participants who indicate their interest in applying for the grant during the registration process and are AIRO members. Note that you are already an AIRO member if you have registered for The International Conference on Optimization and Decision Science (ODS) 2025 or if you have paid the AIRO registration fee for the year 2026. Otherwise, to become an AIRO member, please follow the instructions [here](https://www.airo.org/en/become-an-airo-member/).
 
 Grants availability:
 
