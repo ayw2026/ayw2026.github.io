@@ -21,6 +21,7 @@ We invite all AIROYoung members, Ph.D. students, and early-stage Researchers (Ph
 AIROYoung's mission is to involve everyone in its events, regardless of their funds. For this reason, our events are free for everyone, and we work hard to secure some funding to help with accommodation.
 
 Participants submitting an abstract and simple attendees are required to fill in the **Workshop Registration Form** (link to the form will be available soon).
+
 ---
 
 ## Accommodation grants
