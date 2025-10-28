@@ -36,3 +36,20 @@ Grants availability:
 Participants who will be awarded an accommodation grant will receive a notification by December 23, 2025, with all the instructions to follow to confirm the grant.
 
 If you have further questions, you can send an email to `airoyoungworkshop2026@gmail.com` and `airo.young.researchers@gmail.com`.
+
+---
+
+## Upcoming volume in the [AIRO Springer Series](https://link.springer.com/series/15947)”
+
+Besides abstracts, young researchers will have the opportunity to submit a short paper as a book chapter of a future volume in this series. Provisional deadline submission: February 14, 2026. More details will be available soon.” (così se non riusciamo ad aprire la piattaforma in tempo per lunedì 3 siamo a posto)
+
+---
+
+## Awards
+
+This year, two awards will be given during the workshop:
+
+- **Optit Best Presentation Award** – you can indicate your interest in participating on the abstract submission form. Prize: €500.
+- **Cargoful Best Paper Award** – participation is automatic and limited to authors submitting a paper to the Springer volume. Prize: €300.
+
+More details will be available soon.

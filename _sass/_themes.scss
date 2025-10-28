@@ -130,6 +130,14 @@ $xing-color                 : #006567;
   font-size: 0.95rem;
 }
 
+.sponsor-table{
+  border-bottom: 0px solid #fff !important;
+}
+
+.sponsor-table td {
+  max-height: 128px;
+}
+
 .sr-only {
   position: absolute;
   width: 1px;
