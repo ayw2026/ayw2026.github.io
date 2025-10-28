@@ -21,7 +21,7 @@ We are deeply grateful for the generous support of our sponsors, whose contribut
     {% for sponsor in site.data.academic_sponsors %}
     <tr>
       <td>
-        <a href="{{ sponsor.url }}" target="_blank" rel="noopener"> {{ sponsor.name }} </a><br/>
+        <a href="{{ sponsor.url }}" target="_blank" rel="noopener" class="visually-hidden"> {{ sponsor.name }} </a><br/>
         <a href="{{ sponsor.url }}" target="_blank" rel="noopener">
           <img src="{{ sponsor.logo | relative_url }}" alt="{{ sponsor.name }} logo" style="max-height:128px;" />
         </a>
@@ -50,7 +50,7 @@ We are deeply grateful for the generous support of our sponsors, whose contribut
     {% for sponsor in site.data.industry_sponsors %}
     <tr>
       <td>
-        <a href="{{ sponsor.url }}" target="_blank" rel="noopener"> {{ sponsor.name }} </a><br/>
+        <a href="{{ sponsor.url }}" target="_blank" rel="noopener" class="visually-hidden"> {{ sponsor.name }} </a><br/>
         <a href="{{ sponsor.url }}" target="_blank" rel="noopener">
           <img src="{{ sponsor.logo | relative_url }}" alt="{{ sponsor.name }} logo" style="max-height:128px;" />
         </a>

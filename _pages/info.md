@@ -39,7 +39,7 @@ If you have further questions, you can send an email to `airoyoungworkshop2026@g
 
 ---
 
-## Upcoming volume in the [AIRO Springer Series](https://link.springer.com/series/15947)”
+## Upcoming volume in the [AIRO Springer Series](https://link.springer.com/series/15947)
 
 Besides abstracts, young researchers will have the opportunity to submit a short paper as a book chapter of a future volume in this series. Provisional deadline submission: February 14, 2026. More details will be available soon.” (così se non riusciamo ad aprire la piattaforma in tempo per lunedì 3 siamo a posto)
 
