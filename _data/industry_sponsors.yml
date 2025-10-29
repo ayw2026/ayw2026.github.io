@@ -6,9 +6,9 @@
 #   url: https://decisionsciencealliance.org   # update if needed
 #   logo: /images/sponsor-decision-science-alliance.png
 
-# - name: Fondazione LINKS
-#   url: https://linksfoundation.com   # update if different
-#   logo: /images/sponsor-links-foundation-logo.png
+- name: Fondazione LINKS
+  url: https://linksfoundation.com
+  logo: /images/logo/links.png
 
 # - name: Gurobi
 #   url: https://www.gurobi.com
