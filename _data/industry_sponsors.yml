@@ -1,6 +1,6 @@
-# - name: Cargoful
-#   url: https://www.cargoful.com   # update if different
-#   logo: /images/sponsor-cargoful-logo.png
+- name: Cargoful
+  url: http://cargoful.tech
+  logo: /images/logo/cargoful.png
 
 # - name: Decision Science Alliance
 #   url: https://decisionsciencealliance.org   # update if needed
@@ -25,3 +25,7 @@
 - name: Mosek
   url: https://www.mosek.com/
   logo: /images/logo/mosek.png
+
+- name: Optit
+  url: https://optit.net 
+  logo: /images/logo/optit.png

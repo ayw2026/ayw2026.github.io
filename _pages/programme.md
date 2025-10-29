@@ -68,6 +68,10 @@ Ph.D. School, more info in [Ph.D. School page](/phd-school/).
 
 ## Schedule (Google Sheets)
 
-<div class="responsive-sheet" id="schedule-iframe">
+<!-- <div class="responsive-sheet" id="schedule-iframe">
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSLH4jxQ7kXRUWs6P7MOpsKAzPVUuQnnn1Dz8EeX3pyeuerTyubCMrNefQcArwxa73WhHFxJzLpJqXg/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+</div> -->
+<div class="responsive-sheet" id="schedule-iframe">
+<iframe src="https://docs.google.com/spreadsheets/d/11rCem4GCZwuzgXzM-G9Ge8iaQCFSxY2dn1XnUhuDFbY/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 </div>
+
