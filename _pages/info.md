@@ -55,7 +55,7 @@ Authors presenting during the workshop or submitting a short paper to our Volume
 
 More details will be available soon.
 
---
+---
 
 ## Main Theme and Topics
 
@@ -65,7 +65,7 @@ The primary theme of the 10AYW is “Optimization between determinism and uncert
 
 By following, in a certain sense, Galileo's suggestion, what is generally done is re-exploiting the knowledge, skills, and competences developed for something known and “measurable” to solve something probable or a worst case under some assumptions, thus making “measurable what is not so”. Handling all this in both static and multi-stage settings is not easy. Still, Operations Research is not alone but naturally joins forces with other branches of Mathematics and Computer Science that have established themselves in recent decades, such as Machine Learning and Data Science: prescription meets prediction. Among the main challenges to tackle, we find the following: how to overcome drawbacks of uncertainty paradigms such as the critical number of scenarios in Stochastic Programming or the over conservatism of static Robust Optimization; how to reduce the distance between nice theoretical results and expensive runtimes needed to solve more than just numerical examples; and, in this regard, we cannot ignore data availability and quality. Therefore, there is plenty of research work from both the methodological and computational sides.
 
-We invite any interested young researchers and practitioners, not mandatorily attendees of the workshop, to contribute to the discussion of this relevant and actual theme by submitting an abstract or a short paper (8-10 pages) on a variety of topics, including but not limited to the following ones (in alphabetical order):
+We invite any interested young researchers and practitioners to contribute to the discussion of this relevant and actual theme by submitting an abstract or a short paper (8-10 pages) on a variety of topics, including but not limited to the following ones (in alphabetical order):
 - Artificial Intelligence
 - Big Data Analytics and Optimization
 - Bilevel Optimization
