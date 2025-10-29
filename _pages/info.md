@@ -10,19 +10,19 @@ We invite all AIROYoung members, Ph.D. students, and early-stage Researchers (Ph
 
 ## Registration – Deadline: January 28, 2026
 
-One of AIROYoung's missions is to involve everyone in its events, regardless of their funds. For this reason, our events are free for everyone, and we work hard to secure some funding to help with accommodation.
-
-Participants submitting an abstract and simple attendees are required to fill in the **Workshop Registration Form** (link to the form will be available on November 3rd, at 17:00 CET).
+- One of AIROYoung's missions is to involve everyone in its events, regardless of their funds. For this reason, our events are free for everyone, and we work hard to secure some funding to help with accommodation.
+- Participants submitting an abstract and simple attendees are required to fill in the **Workshop Registration Form** (link to the form will be available on November 3rd, at 17:00 CET).
+- Please note that you can first register and later submit an abstract, even after days or weeks. We kindly ask you to register as soon as possible to get an estimate of the number of participants (and also, if you want to apply for an accommodation grant, the sooner, the better – see below).
 
 ---
 
 ## Abstract Submission – Deadline: December 10, 2025
 
 - Authors can submit an abstract to give a short presentation of their work by filling out the **Abstract Registration Form** (link to the form will be available on November 3rd, at 17:00 CET).
-- Submitted abstracts must be limited to one page in length (including references). Please use either the LaTeX or the Word template available [here](https://drive.google.com/file/d/1CvrwMNoGrqzNArSUvv-OT2wt7OgIZw5a/view?usp=share_link) and upload a ZIP file containing all source files and a PDF version of your abstract. Please name your PDF file as `SURNAME_NAME_10AYW` and the ZIP archive as `SURNAME_NAME_10AYW.zip`.
-- The acceptance of the contribution will be notified to the author by email by December 23, 2025.
+- Submitted abstracts must be limited to one page in length (including references). Please use  the LaTeX or the Word template available [here](https://drive.google.com/file/d/1CvrwMNoGrqzNArSUvv-OT2wt7OgIZw5a/view?usp=share_link) and upload a ZIP file containing all source files and a PDF version of your abstract. Please name your PDF file `SURNAME_NAME_10AYW` and the ZIP archive `SURNAME_NAME_10AYW.zip`.
+- The author will be notified of the contribution's acceptance by email by December 23, 2025.
 - Please note that each author can give at most one talk during the event.
-
+ 
 ---
 
 ## Accommodation grants
