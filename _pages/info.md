@@ -47,9 +47,9 @@ Besides abstracts, young researchers will have the opportunity to submit a short
 
 ## Awards
 
-This year, two awards will be given during the workshop:
+Authors presenting during the workshop or submitting a short paper to our Volume in the AIRO Springer Series will have the opportunity to get their work recognized as outstanding. More precisely, there will be the following two awards:
 
-- **Optit Best Presentation Award** – You can indicate your interest in participating on the abstract submission form. Prize: €500.
-- **Cargoful Best Paper Award** – Participation is automatic and limited to authors submitting a paper to the Springer volume. Prize: €300.
+- **[Optit](https://optit.net) Best Presentation Award** – You can indicate your interest in participating in the Abstract Submission form; prize: €500.
+- **[Cargoful](https://cargoful.tech) Best Paper Award** – Participation is automatic and limited to authors submitting a paper to the Springer volume; prize: €300.
 
 More details will be available soon.
