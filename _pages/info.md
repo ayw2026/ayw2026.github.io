@@ -42,9 +42,12 @@ If you have further questions, you can send an email to `airoyoungworkshop2026@g
 
 ---
 
-## Short Paper Submission – Upcoming volume in the [AIRO Springer Series](https://link.springer.com/series/15947)
+## Short Paper Submission – Deadline: February 14, 2026
 
-Besides abstracts, young researchers will have the opportunity to submit a short paper as a book chapter of a future volume in this series. Provisional deadline submission: February 14, 2026. More details will be available soon.
+- Besides abstracts, young researchers and practitioners can submit a short paper as a book chapter of a future volume in the [AIRO Springer Series](https://link.springer.com/series/15947).
+- Attending the workshop is not mandatory for submitting a short paper.
+- For guidelines and templates for submitting a short paper, please visit the related [Springer page](https://www.springernature.com/gp/authors/publish-a-book/step-by-step-conference-proceedings).
+- For submissions, please visit the dedicated [Meteor platform](https://meteor.springer.com/10AYW).
 
 ---
 
