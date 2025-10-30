@@ -11,8 +11,9 @@ author_profile: true
 
 **Short bio**: Martine Labbé is an honorary professor at the Université Libre de Bruxelles. She was a full professor from 2000 to 2019 and was president of EURO between 2007 and 2008. She has contributed substantially to various topics, including bilevel optimization, network optimization, location problems, routing, and machine learning. In 2019, she was the first female researcher to receive the EURO Gold Medal, the highest distinction in our field in Europe.
 
-**Title**: TBD
+<br/> <br/> <br/> 
 
+**Title**: TBD <br/> 
 **Abstract**: TBD
 
 ---
@@ -23,8 +24,9 @@ author_profile: true
 
 **Short bio**: Stefan Røpke has been Professor of Operations Research at the Technical University of Denmark since 2012. His research has provided numerous contributions on exact and heuristic methods to solve routing and logistics problems, including the well-known Adaptive Large Neighborhood Search meta-heuristic, co-authored with David Pisinger.
 
-**Title**: TBD
+<br/> <br/> <br/> 
 
+**Title**: TBD <br/> 
 **Abstract**: TBD
 
 ---
@@ -35,8 +37,9 @@ author_profile: true
 
 **Short bio**: Wolfram Wiesemann is a professor of Analytics and Operations at the Imperial College Business School, where he also heads the Department of Analytics, Marketing & Operations. His research focuses on decision-making under uncertainty, with applications in supply chain management, healthcare, and energy.
 
-**Title**: TBD
+<br/> <br/> <br/> 
 
+**Title**: TBD <br/> 
 **Abstract**: TBD
 
 ---
@@ -47,8 +50,9 @@ author_profile: true
 
 **Short bio**: Hande Yaman Paternotte is Professor of Operations Research at the Faculty of Economics and Business at KU Leuven. Research contributions and interests of her include polyhedral approaches for mixed integer programming with applications in production planning, logistics, and network design.
 
-**Title**: TBD
+<br/> <br/> <br/> 
 
+**Title**: TBD <br/> 
 **Abstract**: TBD
 
 ---
