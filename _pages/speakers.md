@@ -11,8 +11,6 @@ author_profile: true
 
 **Short bio**: Martine Labbé is an honorary professor at the Université Libre de Bruxelles. She was a full professor from 2000 to 2019 and was president of EURO between 2007 and 2008. She has contributed substantially to various topics, including bilevel optimization, network optimization, location problems, routing, and machine learning. In 2019, she was the first female researcher to receive the EURO Gold Medal, the highest distinction in our field in Europe.
 
-<br/> 
-
 **Title**: TBD <br/> 
 **Abstract**: TBD
 
@@ -37,7 +35,7 @@ author_profile: true
 
 **Short bio**: Wolfram Wiesemann is a professor of Analytics and Operations at the Imperial College Business School, where he also heads the Department of Analytics, Marketing & Operations. His research focuses on decision-making under uncertainty, with applications in supply chain management, healthcare, and energy.
 
-<br/> <br/> 
+<br/> 
 
 **Title**: TBD <br/> 
 **Abstract**: TBD
