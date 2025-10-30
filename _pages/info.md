@@ -28,7 +28,7 @@ We invite all AIROYoung members, Ph.D. students, and early-stage Researchers (Ph
 ## Accommodation grants
 
 Thanks to the financial support offered by AIRO and our sponsors, we are able to provide several **accommodation grants** to cover accommodation expenses for the entire event (i.e., hotel check-in on February 8, Sunday afternoon, and check-out on February 13, Friday morning).
-- Grants will be awarded on a first-come, first-served basis to participants who indicate their interest in applying for the grant during the registration process and are (willing to become) AIRO members.
+- Grants will be awarded on a first-come, first-served basis to participants who indicate their interest in applying for the grant during the registration process and are (willing to become) AIRO members. 
 - Note that you are already an AIRO member if you have registered for The International Conference on Optimization and Decision Science (ODS) 2025 or if you have paid the AIRO registration fee for the year 2026. Otherwise, to become an AIRO member, please follow the instructions [here](https://www.airo.org/en/become-an-airo-member/).
 
 Grants availability:
@@ -36,7 +36,7 @@ Grants availability:
 - 12 grants for those who, regardless of their career stage, submit an abstract to hold a presentation and whose abstract is accepted.
 - 4 grants for those who do not submit an abstract, but must be master’s or first-year Ph.D. students (in this case, a certificate from a supervisor is required to confirm this).
 
-Participants who will be awarded an accommodation grant will receive a notification by December 23, 2025, with all the instructions to follow to confirm the grant.
+Participants who will be awarded an accommodation grant will receive a notification by December 23, 2025, with all the instructions to follow to confirm the grant. Only after this message, should you obtain the accommodation grant, you will be asked to prove your AIRO membership or become an AIRO member.
 
 If you have further questions, you can send an email to `airoyoungworkshop2026@gmail.com` and `airo.young.researchers@gmail.com`.
 
