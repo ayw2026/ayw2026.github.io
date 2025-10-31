@@ -9,10 +9,12 @@ The Ph.D. School will take place on Monday, February 9th, 2026 and will feature 
 
 ## Marco Di Summa, University of Padova, Department of Mathematics [[ORCID]](https://www.math.unipd.it/~disumma/research.html)
 
+![](/images/lecturer-marco-di-summa.jpg){: style="float: left; margin-right: 1em; max-width:148px;" }
+
 **Short bio**: Marco Di Summa is a Full Professor of Operations Research at the Department of Mathematics, University of Padua, Italy. He earned his Ph.D. in Computational Mathematics from the same university in 2008 and has held research positions at Center for Operations Research and Econometrics (Université catholique de Louvain), the University of Torino, and École Polytechnique Fédérale de Lausanne. His research focuses on mixed-integer programming, polyhedral theory, and cutting-plane methods in optimization.
 
-**Title**: TBD <br/> 
-**Abstract**: TBD
+**Title**:  Comparing branch-and-bound, cutting planes, and branch-and-cut  <br/> 
+**Abstract**: In this lecture, we will explore what is known about the theoretical complexity of branch-and-bound, cutting-plane, and branch-and-cut algorithms for linear and convex mixed-integer optimization. We will compare the efficiency of these methods and discuss how their worst-case performance depends on the choice of branching strategy and cutting-plane paradigm.
 
 ---
 
