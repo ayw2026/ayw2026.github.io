@@ -25,7 +25,7 @@ We invite all AIROYoung members, Ph.D. students, and early-stage Researchers (Ph
  
 ---
 
-## Accommodation grants
+## Accommodation Grants
 
 Thanks to the financial support offered by AIRO and our sponsors, we are able to provide several **accommodation grants** to cover accommodation expenses for the entire event (i.e., hotel check-in on February 8, Sunday afternoon, and check-out on February 13, Friday morning).
 - Grants will be awarded on a first-come, first-served basis to participants who indicate their interest in applying for the grant during the registration process and are (willing to become) AIRO members. 
