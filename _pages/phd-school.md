@@ -33,8 +33,8 @@ The Ph.D. School will take place on Monday, February 9th, 2026 and will feature 
 
 **Short bio**: Francesco Rinaldi is a Full Professor of Mathematics at the University of Padua’s Math Department. He received his Ph.D. in Operations Research from Sapienza University of Rome in 2009. His research focuses on nonlinear and derivative-free optimization, with applications in many scientific fields such as machine learning, medicine and biology.
 
-**Title**: TBD <br/> 
-**Abstract**: TBD
+**Title**: Frank–Wolfe and friends: a journey into projection-free optimization methods  <br/> 
+**Abstract**: This lecture explores the use of projection-free algorithms, such as the  Frank-Wolfe Method and its variants, for constrained optimization problems. We analyse both  theoretical and computational properties of those methods. Additionally, we discuss some applications in, e.g., machine learning, and complex network analysis where the methods  enable scalable and efficient solutions. 
 
 ---
 
