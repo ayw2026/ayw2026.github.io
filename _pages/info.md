@@ -57,6 +57,7 @@ Authors presenting during the workshop or submitting a short paper to our Volume
 
 - **[Optit](https://optit.net) Best Presentation Award** – You can indicate your interest in participating in the Abstract Submission form; prize: €500.
 - **[Cargoful](https://cargoful.tech) Best Paper Award** – Participation is automatic and limited to authors submitting a paper to the Springer volume; prize: €300.
+- **[Springer](https://www.springer.com) Best Paper Award** – Participation is automatic and limited to authors submitting a paper to the Springer volume; prize: a €250 voucher to spend on Springer books.
 
 More details will be available soon.
 
