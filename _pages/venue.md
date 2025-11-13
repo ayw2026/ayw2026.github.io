@@ -9,7 +9,7 @@ author_profile: true
 
 ![DEI](/images/venue-psico-3.png)
 
-The conference will be held at the Department of Information Psychology in the [Aula A](https://psicologia.unipd.it/strutture/aule), located in the of the PSICO3 Building, ground floor.
+The conference will be held at the Department of Information Psychology in the [Aula A](https://psicologia.unipd.it/strutture/aule), in the PSICO3 Building, ground floor.
 
 
 ### Accessibility and inclusive measures at DEI and UNIPD

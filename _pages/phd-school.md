@@ -31,6 +31,8 @@ The Ph.D. School will take place on Monday, February 9th, 2026 and will feature 
 
 ## Francesco Rinaldi, University of Padova, Department of Mathematics [[ORCID]](https://orcid.org/0000-0001-8978-6027)
 
+![](/images/lecturer-francesco-rinaldi.jpg){: style="float: left; margin-right: 1em; max-width:148px;" }
+  
 **Short bio**: Francesco Rinaldi is a Full Professor of Mathematics at the University of Padua’s Math Department. He received his Ph.D. in Operations Research from Sapienza University of Rome in 2009. His research focuses on nonlinear and derivative-free optimization, with applications in many scientific fields such as machine learning, medicine and biology.
 
 **Title**: Frank–Wolfe and friends: a journey into projection-free optimization methods  <br/> 
