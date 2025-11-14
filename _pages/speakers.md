@@ -57,11 +57,14 @@ author_profile: true
 
 ## Special Roundtable Speakers
 
-As the next edition of the AIROYoung Workshop is a milestone anniversary, we invite the founders of AIROYoung to join the special roundtable about the past, present, and future of the association. Speakers include:
+As the next edition of the AIROYoung Workshop is a milestone anniversary, we invite the founders of AIROYoung and the members of the previous boards to join (on-site or remotely) the special roundtable about the past, present, and future of the association. Speakers include:
 
 - Lavinia Amorosi, Sapienza University of Rome [[ORCID]](https://orcid.org/0000-0002-5480-9871)
+- Michele Barbato, University of Milan [[ORCID]](https://orcid.org/0000-0002-8521-896X)
 - Veronica Dal Sasso, Siemens Mobility, former University of Padova [[ORCID]](https://orcid.org/0000-0001-9897-8768)
 - Martina Fischetti, University of Sevilla [[ORCID]](https://orcid.org/0000-0002-7673-6917)
-- Valentina Morandi, Università degli Studi di Brescia [[ORCID]](https://orcid.org/0000-0003-3201-918X)
 - Serena Fugaro, Italian National Research Council [[ORCID]](https://orcid.org/0000-0002-7140-3531)
-- Others to be announced soon.
+- Giusy Macrina, University of Calabria [[ORCID]](https://orcid.org/0000-0001-6762-3622)
+- Valentina Morandi, University of Brescia [[ORCID]](https://orcid.org/0000-0003-3201-918X)
+- Lorenzo Peirano, University of Brescia [[ORCID]](https://orcid.org/0000-0001-8042-6535)
+- Alberto Santini, Universitat Pompeu Fabra [[ORCID]](https://orcid.org/0000-0002-0440-0357)
