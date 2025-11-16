@@ -33,12 +33,13 @@ author_profile: true
 
 ![](/images/speaker-wolfram-wiesemann.jpg){: style="float: left; margin-right: 1em; max-width:148px;" }
 
-**Short bio**: Wolfram Wiesemann is a professor of Analytics and Operations at the Imperial College Business School, where he also heads the Department of Analytics, Marketing & Operations. His research focuses on decision-making under uncertainty, with applications in supply chain management, healthcare, and energy.
+**Short bio**: Wolfram Wiesemann is Professor of Analytics & Operations at the Analytics, Marketing & Operations department at Imperial College Business School. His research interests evolve around decision-making under uncertainty, with applications to logistics, supply chain management and healthcare. Wolfram has served as an elected member of the boards of the Mathematical Optimization Society and the Stochastic Programming Society, and he currently serves as editor in-chief of Operations Research Letters as well as a department co-editor for Management Science.
 
 <br/> 
 
-**Title**: TBD <br/> 
-**Abstract**: TBD
+**Title**: Large-Scale and Data-Driven Markov Decision Processes <br/> 
+**Abstract**: 
+Markov decision processes (MDPs) constitute one of the predominant modeling and solution paradigms for dynamic decision problems affected by uncertainty. MDPs model the dynamics of a system through a random state evolution that generates rewards over time. The decision maker aims to select actions that influence this state evolution so as to maximize rewards. In this talk, we review recent advances in MDPs along two directions: (i) the construction of data-driven policies that combine the (traditionally separated) tasks of estimating the system’s behavior and selecting actions that maximize rewards in the estimated system, and (ii) the exploitation of structure to solve large-scale problems. In view of (i), we will show how the consideration of data-driven policies naturally leads to the study of robust MDPs, where the decision maker combats overfitting by hedging against the worst system dynamics that are plausible under some given training data. We will also discuss how alternative models of robustness offer different trade-offs between the competing goals of out-of-sample performance and complexity of the involved policies and computations. As for (ii), we will review two types of structure that allow us to alleviate the well-known curse of dimensionality: weakly coupled MDPs that combine a potentially large number of MDPs via a small number of linking constraints, and factored MDPs whose states are represented by assignments of values to state variables that evolve and contribute to the system's rewards largely independently.
 
 ---
 
@@ -50,8 +51,8 @@ author_profile: true
 
 <br/> <br/> <br/> 
 
-**Title**: TBD <br/> 
-**Abstract**: TBD
+**Title**: Partitioning a Graph into Connected Components <br/> 
+**Abstract**: In this talk, we study problems that involve partitioning the vertices of an undirected graph into a given number of pairwise disjoint sets such that each set induces a connected subgraph. We first propose valid inequalities, which extend and generalize the ones in the literature, and report on computational experiments demonstrating their use (joint work with P. Moura and R. Leus). Then, we extend this problem to also compute a spanning tree for each set of the partition such that the weight of the heaviest tree is minimized. We investigate the complexity of this problem and present formulations and solution methods, which we compare with an experimental study (joint work with M. Davari and P. Moura). Finally, we consider a practical problem encountered in power system restoration, which involves partitioning a power network into connected subnetworks, one for each black start generator, such that the restoration time is minimized. We propose a solution method that uses a new formulation and properties of optimal solutions and report computational results (joint work with H. Çalık and D. Van Hertem).
 
 ---
 

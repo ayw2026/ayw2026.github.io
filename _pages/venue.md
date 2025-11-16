@@ -11,8 +11,7 @@ author_profile: true
 
 The conference will be held at the Department of Psychology in the [Aula A](https://psicologia.unipd.it/strutture/aule), in the PSICO3 Building, ground floor.
 
-
-### Accessibility and inclusive measures at UNIPD
+### Accessibility and inclusive measures at DEI and UNIPD
 
 The University of Padova is always careful in promoting and implementing policies attentive to any disparities and inequalities, to encourage “the full participation in university life of students in conditions of disability, vulnerability, or difficulty”. For instance, there are [referees](https://www.unipd.it/en/referees-services-inclusion-disability) for inclusion and disability, such as the Rector’s delegate and Department advisors, to contact for any issues in any space of the University. We refer to [this document](https://www.unipd.it/sites/unipd.it/files/2025/Elenco%20Referenti%20Commissione%20Inclusione_2024-2025_REP.pdf) for the list of referees. Also, dedicated services or extraordinary measures, in case of need, are offered to guarantee attendance in the classroom. For further details, please see [this webpage](https://www.unipd.it/en/home/inclusive-university) and feel free to contact the conference organizers for any specific requests.
 
