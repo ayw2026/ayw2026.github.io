@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 
-## ⁠Social event -- 11 February 2026, 17:30 - 19:30
+## Hexaly Social Event -- 11 February 2026, 17:30 - 19:30
 
-To be announced soon.
+A cultural event, kindly sponsored by Hexaly, to discover Padua’s cultural heritage. More details will follow soon.
 
 ---
 

@@ -36,7 +36,7 @@ Ph.D. School, more info in [Ph.D. School page](/phd-school/).
 - **[15:00 - 16:00]** Session #8
 - **[16:00 - 16:30]** Coffee Break
 - **[16:30 - 17:30]** Session #9
-- **[17:30 - 19:39]** Social Event
+- **[17:30 - 19:39]** Hexaly Social Event (see [Social Events page](/events/))
 
 ## Day 4 – Thursday, February 12, 2026
 
