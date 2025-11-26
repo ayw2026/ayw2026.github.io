@@ -2,6 +2,10 @@
   url: https://www.airo.org/
   logo: /images/logo/airo.png
 
+- name: Airo Young
+  url: https://airoyoung.airo.org/
+  logo: /images/logo/airo-young.png
+
 - name: Dipartimento di Ingegneria dell'Informazione, Università di Padova
   url: https://www.dei.unipd.it/
   logo: /images/logo/dei.png
@@ -10,15 +14,10 @@
   url: https://www.math.unipd.it/
   logo: /images/sponsor-unipd-math-logo.png
 
-- name: Istituto di Analisi dei Sistemi ed Informatica A. Ruberti Consiglio Nazionale delle Ricerche
+- name: Istituto di Analisi dei Sistemi ed Informatica A. Ruberti, Consiglio Nazionale delle Ricerche
   url: https://www.iasi.cnr.it/
   logo: /images/logo/iasicnr.png
 
-
-# - name: CNR Istituto Applicazioni del Calcolo
-#   url: https://www.iac.cnr.it/
-#   logo: /images/sponsor-cnr-iac-logo.jpg
-
-# - name: CNR Istituto di Analisi dei Sistemi ed Informatica “A. Ruberti”
-#   url: https://www.iasi.cnr.it/
-#   logo: /images/sponsor-cnr-iasi-logo.jpg
+- name: Istituto per le Applicazioni del Calcolo A. Picone, Consiglio Nazionale delle Ricerche
+  url: https://www.iac.cnr.it/
+  logo: /images/logo/iaccnr.png
