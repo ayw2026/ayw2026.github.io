@@ -5,7 +5,7 @@ permalink: /info/
 author_profile: true
 ---
 
-We invite all AIROYoung members, Ph.D. students, and early-stage Researchers (Ph.D. degree <= 5 years) in Operations Research and related topics, or anyone with a strong interest in OR under 35 years old, to attend the 10AYW and the Ph.D. School and to submit an abstract to be presented during the workshop or a short paper to be published in a volume in the AIRO Springer Series. We report all the details below.
+We invite all AIROYoung members, master's students, Ph.D. students, and early-stage Researchers (Ph.D. degree <= 5 years) in Operations Research and related topics, or anyone with a strong interest in OR under 35 years old, to attend the 10AYW and the Ph.D. School and to submit an abstract to be presented during the workshop or a short paper to be published in a volume in the AIRO Springer Series. We report all the details below.
 
 
 ## Registration – Deadline: January 28, 2026
