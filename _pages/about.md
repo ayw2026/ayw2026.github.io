@@ -15,7 +15,7 @@ We are pleased to invite you to the 10th AIROYoung Workshop. After the workshops
     <h2>Important dates</h2>
       <ul style="list-style-type: none; padding-left: 0; margin-left: 0; margin-top: 1em;">
         <li> Registration opening:<br/>03 Nov. 2025</li>
-        <li> Abstract submission deadline:<br/>10 Dec. 2025</li>
+        <li> Abstract submission deadline:<br/><s>10</s> 12 Dec. 2025</li>
         <li> Notification of acceptance:<br/>23 Dec. 2025</li>
         <li> Registration deadline:<br/>28 Jan. 2026</li>
       </ul>

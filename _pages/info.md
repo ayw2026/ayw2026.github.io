@@ -16,7 +16,7 @@ We invite all AIROYoung members, master's students, Ph.D. students, and early-st
 
 ---
 
-## Abstract Submission – Deadline: December 10, 2025
+## Abstract Submission – Deadline: December <s>10</s> 12, 2025
 
 - Authors can submit an abstract to give a short presentation of their work by filling out the [**Abstract Registration Form**](https://forms.gle/sSPwRDJdFAoxtamM7)
 - Submitted abstracts must be limited to one page in length (including references). Please use  the LaTeX or the Word template available [here](https://drive.google.com/file/d/1CvrwMNoGrqzNArSUvv-OT2wt7OgIZw5a/view?usp=share_link) and upload a ZIP file containing all source files and a PDF version of your abstract. Please name your PDF file `SURNAME_NAME_10AYW` and the ZIP archive `SURNAME_NAME_10AYW.zip`.
