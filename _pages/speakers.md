@@ -25,7 +25,7 @@ This is a joint work with Diego Cattaruzza, Matteo Petris, Marius Roland and Mar
 
 **Short bio**: Stefan Røpke has been Professor of Operations Research at the Technical University of Denmark since 2012. His research has provided numerous contributions on exact and heuristic methods to solve routing and logistics problems, including the well-known Adaptive Large Neighborhood Search meta-heuristic, co-authored with David Pisinger.
 
-<br/> <br/> <br/> 
+<br/> <br/> 
 
 **Title**: Vehicle Routing Problems <br/> 
 **Abstract**: Vehicle routing problems (VRPs) form a central class of optimization problems in operations research, with many practical applications. This talk provides a tutorial-style overview of key VRP variants and reviews state-of-the-art exact and heuristic solution techniques. We then highlight several problem extensions that have attracted significant research interest in recent years, driven by new application domains. The talk concludes with a forward-looking discussion of emerging research directions in vehicle routing, with particular emphasis on the integration of machine learning into routing algorithms.
@@ -38,7 +38,6 @@ This is a joint work with Diego Cattaruzza, Matteo Petris, Marius Roland and Mar
 
 **Short bio**: Wolfram Wiesemann is Professor of Analytics & Operations at the Analytics, Marketing & Operations department at Imperial College Business School. His research interests evolve around decision-making under uncertainty, with applications to logistics, supply chain management and healthcare. Wolfram has served as an elected member of the boards of the Mathematical Optimization Society and the Stochastic Programming Society, and he currently serves as editor in-chief of Operations Research Letters as well as a department co-editor for Management Science.
 
-<br/> 
 
 **Title**: Large-Scale and Data-Driven Markov Decision Processes <br/> 
 **Abstract**: 
@@ -52,7 +51,7 @@ Markov decision processes (MDPs) constitute one of the predominant modeling and 
 
 **Short bio**: Hande Yaman Paternotte is Professor of Operations Research at the Faculty of Economics and Business at KU Leuven. Research contributions and interests of her include polyhedral approaches for mixed integer programming with applications in production planning, logistics, and network design.
 
-<br/> <br/> <br/> 
+<br/> <br/> 
 
 **Title**: Partitioning a Graph into Connected Components <br/> 
 **Abstract**: In this talk, we study problems that involve partitioning the vertices of an undirected graph into a given number of pairwise disjoint sets such that each set induces a connected subgraph. We first propose valid inequalities, which extend and generalize the ones in the literature, and report on computational experiments demonstrating their use (joint work with P. Moura and R. Leus). Then, we extend this problem to also compute a spanning tree for each set of the partition such that the weight of the heaviest tree is minimized. We investigate the complexity of this problem and present formulations and solution methods, which we compare with an experimental study (joint work with M. Davari and P. Moura). Finally, we consider a practical problem encountered in power system restoration, which involves partitioning a power network into connected subnetworks, one for each black start generator, such that the restoration time is minimized. We propose a solution method that uses a new formulation and properties of optimal solutions and report computational results (joint work with H. Çalık and D. Van Hertem).
