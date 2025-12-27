@@ -27,8 +27,8 @@ This is a joint work with Diego Cattaruzza, Matteo Petris, Marius Roland and Mar
 
 <br/> <br/> <br/> 
 
-**Title**: TBD <br/> 
-**Abstract**: TBD
+**Title**: Vehicle Routing Problems <br/> 
+**Abstract**: Vehicle routing problems (VRPs) form a central class of optimization problems in operations research, with many practical applications. This talk provides a tutorial-style overview of key VRP variants and reviews state-of-the-art exact and heuristic solution techniques. We then highlight several problem extensions that have attracted significant research interest in recent years, driven by new application domains. The talk concludes with a forward-looking discussion of emerging research directions in vehicle routing, with particular emphasis on the integration of machine learning into routing algorithms.
 
 ---
 
