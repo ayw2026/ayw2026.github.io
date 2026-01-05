@@ -8,7 +8,8 @@ author_profile: true
 
 ## Hexaly Social Event -- 11 February 2026, 17:30 - 19:30
 
-A cultural event, kindly sponsored by Hexaly, to discover Padua’s cultural heritage. More details will follow soon.
+On 12th we will take a guided tour of [Palazzo Bo](https://www.unipd.it/en/visitbo), the historic heart of the University of Padua.
+The cultural event is kindly sponsored by [Hexaly](https://www.hexaly.com).
 
 ---
 
@@ -27,4 +28,4 @@ As part of the milestone 10th anniversary edition of the AIROYoung Workshop, a s
 
 ## ⁠Social dinner -- 12 February 2026, 20:00
 
-More details will be provided soon.
+On the evening of February 12th, the social dinner will take place at Osteria Antico Brolo, located in the city center of Padua, at [Corso Milano 22](https://maps.app.goo.gl/ZVD6ayTuZ9x41RbX6).
