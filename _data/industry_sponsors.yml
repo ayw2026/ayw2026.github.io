@@ -6,17 +6,17 @@
   url: https://www.centralevicenza.it
   logo: /images/logo/centrale-latte.jpg
 
-# - name: Decision Science Alliance
-#   url: https://decisionsciencealliance.org   # update if needed
-#   logo: /images/sponsor-decision-science-alliance.png
+- name: Distilleria F.lli Brunello
+  url: https://www.brunello.it/it/
+  logo: /images/sponsor-brunello.png
+
+# - name: FICO
+#   url: https://https://www.fico.com
+#   logo: /images/sponsor-fico.png
 
 - name: Fondazione LINKS
   url: https://linksfoundation.com
   logo: /images/logo/links.png
-
-# - name: Gurobi
-#   url: https://www.gurobi.com
-#   logo: /images/sponsor-gurobi-logo.png
 
 - name: Hexaly
   url: https://www.hexaly.com
@@ -24,7 +24,7 @@
 
 # - name: SF Express
 #   url: https://www.sf-express.com
-#   logo: /images/sponsor-sf-express-logo.png
+#   logo: /images/sponsor-sf-express.png
 
 - name: Mosek
   url: https://www.mosek.com/
