@@ -55,19 +55,3 @@ Markov decision processes (MDPs) constitute one of the predominant modeling and 
 
 **Title**: Partitioning a Graph into Connected Components <br/> 
 **Abstract**: In this talk, we study problems that involve partitioning the vertices of an undirected graph into a given number of pairwise disjoint sets such that each set induces a connected subgraph. We first propose valid inequalities, which extend and generalize the ones in the literature, and report on computational experiments demonstrating their use (joint work with P. Moura and R. Leus). Then, we extend this problem to also compute a spanning tree for each set of the partition such that the weight of the heaviest tree is minimized. We investigate the complexity of this problem and present formulations and solution methods, which we compare with an experimental study (joint work with M. Davari and P. Moura). Finally, we consider a practical problem encountered in power system restoration, which involves partitioning a power network into connected subnetworks, one for each black start generator, such that the restoration time is minimized. We propose a solution method that uses a new formulation and properties of optimal solutions and report computational results (joint work with H. Çalık and D. Van Hertem).
-
----
-
-## Special Roundtable Speakers
-
-As the next edition of the AIROYoung Workshop is a milestone anniversary, we invite the founders of AIROYoung and the members of the previous boards to join (on-site or remotely) the special roundtable about the past, present, and future of the association. Speakers include:
-
-- Lavinia Amorosi, Sapienza University of Rome [[ORCID]](https://orcid.org/0000-0002-5480-9871)
-- Michele Barbato, University of Milan [[ORCID]](https://orcid.org/0000-0002-8521-896X)
-- Veronica Dal Sasso, Siemens Mobility, former University of Padova [[ORCID]](https://orcid.org/0000-0001-9897-8768)
-- Martina Fischetti, University of Sevilla [[ORCID]](https://orcid.org/0000-0002-7673-6917)
-- Serena Fugaro, Italian National Research Council [[ORCID]](https://orcid.org/0000-0002-7140-3531)
-- Giusy Macrina, University of Calabria [[ORCID]](https://orcid.org/0000-0001-6762-3622)
-- Valentina Morandi, University of Brescia [[ORCID]](https://orcid.org/0000-0003-3201-918X)
-- Lorenzo Peirano, University of Brescia [[ORCID]](https://orcid.org/0000-0001-8042-6535)
-- Alberto Santini, Universitat Pompeu Fabra [[ORCID]](https://orcid.org/0000-0002-0440-0357)

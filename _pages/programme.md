@@ -5,7 +5,8 @@ permalink: /programme/
 author_profile: true
 ---
 
-We provide a preliminary programme of the event below. Please note that the schedule is subject to change.
+We provide a preliminary programme of the event below and in [PDF](/files/10AYW-ProvisionalSchedule-v20260113.pdf).
+Please note that the schedule may be subject to change.
 If you prefer, you can also view the [Google Sheets version of the schedule](#schedule-google-sheets).
 
 ## Day 1 – Monday, February 9, 2026

@@ -26,14 +26,20 @@ As in previous editions of the AIROYoung Workshop, we will host Industrial Sessi
 
 ## ⁠AIROYoung Roundtable  -- February 12, 2026, 17:00 -- 18:30
 
-As part of the milestone 10th anniversary edition of the AIROYoung Workshop, a special roundtable will be held featuring the founding members of AIROYoung. This session will offer insights into the origins of the initiative, its journey of growth over the years, and the vision for its future. Speakers include:
+As part of the milestone 10th anniversary edition of the AIROYoung Workshop, we will hold a special roundtable featuring the founding members of AIROYoung, as well as the members of the previous AIROYoung boards (on-site or remotely).
+This session will offer insights into the origins of the AIROYoung chapter, its growth over the years, and the vision for its future. Nonetheless, we will discuss about what being early-career researchers means and the relevance of building one's own network.
+
+Speakers include:
 
 - Lavinia Amorosi, Sapienza University of Rome [[ORCID]](https://orcid.org/0000-0002-5480-9871)
+- Michele Barbato, University of Milan [[ORCID]](https://orcid.org/0000-0002-8521-896X)
 - Veronica Dal Sasso, Siemens Mobility, former University of Padova [[ORCID]](https://orcid.org/0000-0001-9897-8768)
 - Martina Fischetti, University of Sevilla [[ORCID]](https://orcid.org/0000-0002-7673-6917)
-- Valentina Morandi, Università degli Studi di Brescia [[ORCID]](https://orcid.org/0000-0003-3201-918X)
 - Serena Fugaro, Italian National Research Council [[ORCID]](https://orcid.org/0000-0002-7140-3531)
-- Others to be announced soon.
+- Giusy Macrina, University of Calabria [[ORCID]](https://orcid.org/0000-0001-6762-3622)
+- Valentina Morandi, University of Brescia [[ORCID]](https://orcid.org/0000-0003-3201-918X)
+- Lorenzo Peirano, University of Brescia [[ORCID]](https://orcid.org/0000-0001-8042-6535)
+- Alberto Santini, Universitat Pompeu Fabra [[ORCID]](https://orcid.org/0000-0002-0440-0357)
 
 ---
 
