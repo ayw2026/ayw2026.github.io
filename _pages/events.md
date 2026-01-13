@@ -1,15 +1,26 @@
 ---
 layout: archive
-title: "Social Events"
+title: "Events"
 permalink: /events/
 author_profile: true
 ---
 
-
 ## Hexaly Social Event -- February 11, 2026, 17:30 -- 19:30
 
-On Wednesday late afternoon, we will take a guided tour of [Palazzo Bo](https://www.unipd.it/en/visitbo), the historic heart of the University of Padua.
-The cultural event is kindly sponsored by [Hexaly](https://www.hexaly.com).
+On Wednesday late afternoon, we will take a guided tour of [Palazzo Bo](https://www.unipd.it/en/visitbo), the historic heart of the University of Padua. The cultural event is kindly sponsored by [Hexaly](https://www.hexaly.com).
+
+---
+
+## Industrial Session #1 -- February 12, 2026, 14:00 -- 14:30
+
+As in previous editions of the AIROYoung Workshop, we will host Industrial Sessions where companies and research will present their activities, tools and applications in the field of Operations Research and Optimization.
+
+### Hexaly, TBA
+
+### Gustaf Ehn, Mosek ApS
+
+**Title**: Conic optimization for system building. <br/> 
+**Abstract**: In applications, optimization is embedded in a system performing a higher-level task, for example, workforce scheduling, trajectory optimization in robotics, etc. In this talk, we are going to highlight the strengths and usability of conic optimization in building applied optimization systems.
 
 ---
 
