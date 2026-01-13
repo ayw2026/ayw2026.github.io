@@ -13,7 +13,7 @@ On Wednesday late afternoon, we will take a guided tour of [Palazzo Bo](https://
 
 ## Industrial Session #1 -- February 12, 2026, 14:00 -- 14:30
 
-As in previous editions of the AIROYoung Workshop, we will host Industrial Sessions where companies and research will present their activities, tools and applications in the field of Operations Research and Optimization.
+As in previous editions of the AIROYoung Workshop, we will host Industrial Sessions where companies and practitioners will present their activities, tools, and applications in the fields of Operations Research and Optimization.
 
 ### Hexaly, TBA
 
