@@ -5,7 +5,7 @@ permalink: /events/
 author_profile: true
 ---
 
-## Hexaly Social Event -- February 11, 2026, 17:30 -- 19:30
+## Hexaly Social Event -- February 11, 2026, 17:00 -- 19:30
 
 On Wednesday late afternoon, we will take a guided tour of [Palazzo Bo](https://www.unipd.it/en/visitbo), the historic heart of the University of Padua. The cultural event is kindly sponsored by [Hexaly](https://www.hexaly.com).
 
@@ -24,7 +24,7 @@ As in previous editions of the AIROYoung Workshop, we will host Industrial Sessi
 
 ---
 
-## ⁠AIROYoung Roundtable  -- February 12, 2026, 17:00 -- 18:30
+## ⁠AIROYoung Roundtable  -- February 12, 2026, 17:20 -- 18:30
 
 As part of the milestone 10th anniversary edition of the AIROYoung Workshop, we will hold a special roundtable featuring the founding members of AIROYoung, as well as the members of the previous AIROYoung boards (on-site or remotely).
 This session will offer insights into the origins of the AIROYoung chapter, its growth over the years, and the vision for its future. Nonetheless, we will discuss about what being early-career researchers means and the relevance of building one's own network.
