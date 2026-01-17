@@ -6,11 +6,8 @@ author_profile: true
 ---
 
 We provide a preliminary programme of the event below and in [PDF](/files/10AYW-ProvisionalSchedule-v20260117.pdf).
-
 If you prefer, you can also view the [Google Sheets version of the schedule](#schedule-google-sheets).
-
 Please note that the schedule may be subject to change.
-
 Last update: January 17, 2026.
 
 
