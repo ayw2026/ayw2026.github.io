@@ -22,9 +22,9 @@
   url: https://www.hexaly.com
   logo: /images/sponsor-hexaly-logo.svg
 
-# - name: SF Express
-#   url: https://www.sf-express.com
-#   logo: /images/sponsor-sf-express.png
+- name: SF Express
+  url: https://www.sf-express.com
+  logo: /images/logo/sf-express.png
 
 - name: Mosek
   url: https://www.mosek.com/
