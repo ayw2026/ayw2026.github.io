@@ -5,10 +5,10 @@ permalink: /programme/
 author_profile: true
 ---
 
-We provide a preliminary programme of the event below and in [PDF](/files/10AYW-ProvisionalSchedule-v20260117.pdf).
+We provide a preliminary programme of the event below and in [PDF](/files/10AYW-ProvisionalSchedule-v20260121.pdf).
 If you prefer, you can also view the [Google Sheets version of the schedule](#schedule-google-sheets).
 Please note that the schedule may be subject to change.
-Last update: January 17, 2026.
+Last update: January 21, 2026.
 
 
 ## Day 1 – Monday, February 9, 2026
@@ -17,7 +17,7 @@ Ph.D. School, more info in [Ph.D. School page](/phd-school/).
 
 ## Day 2 – Tuesday, February 10, 2026
 
-- **[08:00 - 09:30]** Registration and Workshop Opening
+- **[08:00 - 09:00]** Registration and Workshop Opening
 - **[09:30 - 11:00]** Session #1
 - **[11:00 - 11:30]** Coffee Break
 - **[11:30 - 12:30]** Session #2

@@ -15,11 +15,14 @@ On Wednesday late afternoon, we will take a guided tour of [Palazzo Bo](https://
 
 As in previous editions of the AIROYoung Workshop, we will host Industrial Sessions where companies and practitioners will present their activities, tools, and applications in the fields of Operations Research and Optimization.
 
-### Hexaly, TBA
+### Hexaly, Julien Darlay, Co-Founder & Head of Science
 
-### Gustaf Ehn, Mosek ApS
+**Title**: Hexaly, Hybrid Optimization Solver <br/> 
+ **Abstract**: Hexaly is an innovative hybrid optimization solver based on a nonlinear, set-based modeling formalism. This formalism unifies and extends modeling paradigms from mixed-integer linear programming, nonlinear programming, constraint programming, and black-box optimization. Internally, Hexaly integrates a broad range of exact and heuristic optimization techniques, including branch-and-bound, column and cut generation, constraint propagation, and local search, among others. From a computational standpoint, Hexaly demonstrates competitive performance with state-of-the-art solvers such as Gurobi, CPLEX, and OR-Tools, delivering efficient and scalable solutions to routing, scheduling, packing, clustering, and location problems. This presentation introduces the set-based modeling formalism and demonstrates its scalability for solving large-scale problems. It further examines how the solver exploits this formalism to automatically orchestrate advanced exact and heuristic solution methods drawn from the current state of the art.
 
-**Title**: Conic optimization for system building. <br/> 
+### Mosek ApS, Gustaf Ehn, Head of Sales
+
+**Title**: Conic optimization for system building <br/> 
 **Abstract**: In applications, optimization is embedded in a system performing a higher-level task, for example, workforce scheduling, trajectory optimization in robotics, etc. In this talk, we are going to highlight the strengths and usability of conic optimization in building applied optimization systems.
 
 ---

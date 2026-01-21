@@ -10,9 +10,9 @@
   url: https://www.brunello.it/it/
   logo: /images/logo/brunello.png
 
-# - name: FICO
-#   url: https://https://www.fico.com
-#   logo: /images/sponsor-fico.png
+- name: FICO
+  url: https://https://www.fico.com
+  logo: /images/logo/fico.png
 
 - name: Fondazione LINKS
   url: https://linksfoundation.com
