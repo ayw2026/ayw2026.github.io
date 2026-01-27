@@ -25,6 +25,16 @@ As in previous editions of the AIROYoung Workshop, there will be short presentat
 **Title**: Conic optimization for system building <br/> 
 **Abstract**: In applications, optimization is embedded in a system performing a higher-level task, for example, workforce scheduling, trajectory optimization in robotics, etc. In this talk, we are going to highlight the strengths and usability of conic optimization in building applied optimization systems.
 
+### Italian National Research Council, Institute for System Analysis and Computer Science “Antonio Ruberti”, Marco Boresta
+
+**Title**: TBA <br/>
+**Abstract**: TBA 
+
+### Italian National Research Council, Institute for Applied Mathematics, Serena Fugaro
+
+**Title**: TBA <br/>
+**Abstract**: TBA 
+
 ---
 
 ## ⁠AIROYoung Roundtable  -- February 12, 2026, 17:20 -- 18:30
