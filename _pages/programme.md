@@ -125,10 +125,10 @@ Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
 
 - **[14:00 - 14:30]** Sponsor Session: Hexaly and Mosek
 
-- **[14:30 - 15:30]** Session #13. *Advances in Mathematical Programming II*
-  - [14:30] Edoardo Cesaroni, Derivative-Free Bilevel Optimization with Inexact Lower-Level Solutions
-  - [14:50] Matteo Zanella, MIP Formulations for Delete-Free AI Planning
-  - [15:10] Mariagrazia Cairo, On the Lagrangian Relaxation in a Bi-Objective Branch and Bound algorithm
+- **[14:30 - 15:30]** Session #13. *Scheduling and Timetabling III*
+  - [14:30] Martina Luzzi, Human resources management in SMEs: an optimized and innovative framework
+  - [14:50] Alex Fabián Barrales Araneda, Heuristic Approaches for Timetabling and Vehicle Scheduling with Electric Buses
+  - [15:10] Serena Fugaro, A Soft-Constrained Multi-Objective Facility Location approach to design a Household Waste Recycling Centres network in UK
 
 - **[15:30 - 16:50]** Session #14. Learning-based Optimization
   - [15:30] Alessandro Minoli, A Data-Driven State Exploration Policy in Dynamic Programming for RCESPP
@@ -155,7 +155,7 @@ Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
 
 - **[10:30 - 11:30]** Plenary Talk by Hande Yaman Paternotte, *Partitioning a Graph into Connected Components*
 
-- **[11:30 - 12:50]** Session #16. *Scheduling and Timetabling III*
+- **[11:30 - 12:50]** Session #16. *Scheduling and Timetabling IV*
   - [11:30] Silvia Iuliano, A Global Optimization-based Methodology for Providing Grid Ancillary Services by Electric Vehicles Scheduling
   - [11:50] Lingyuan Shi, Integrated optimization of train rescheduling and speed management during partial blockages: A decomposition approach
   - [12:10] Xinyi Ye, On Makespan Scheduling with Stability
@@ -173,10 +173,10 @@ Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
 
 - **[16:00 - 16:30]** Coffee Break
 
-- **[16:30 - 17:30]** Session #18. *Scheduling and Timetabling IV*
-  - [16:30] Martina Luzzi, Human resources management in SMEs: an optimized and innovative framework
-  - [16:50] Alex Fabián Barrales Araneda, Heuristic Approaches for Timetabling and Vehicle Scheduling with Electric Buses
-  - [17:10] Serena Fugaro, A Soft-Constrained Multi-Objective Facility Location approach to design a Household Waste Recycling Centres network in UK
+- **[16:30 - 17:30]** Session #18. *Advances in Mathematical Programming II*
+  - [16:30] Edoardo Cesaroni, Derivative-Free Bilevel Optimization with Inexact Lower-Level Solutions
+  - [16:50] Matteo Zanella, MIP Formulations for Delete-Free AI Planning
+  - [17:10] Mariagrazia Cairo, On the Lagrangian Relaxation in a Bi-Objective Branch and Bound algorithm
 
 - **[17:30 - 18:00]** Closing
 
