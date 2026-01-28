@@ -13,17 +13,17 @@ Last update: January 28, 2026.
 <details>
 <summary>Day 1 – Monday, February 9, 2026</summary>
 
-  Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
+    Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
+    - **[08:15 - 09:00]** Registration
+    - **[09:00 - 09:20]** Ph.D. School Opening  
+    - **[09:30 - 11:00]** Matteo Fischetti, *Benders and Bilevel Optimization*
+    - **[11:00 - 11:30]** Coffee Break
+    - **[11:30 - 13:00]** Marco Di Summa, *Comparing branch-and-bound, cutting planes, and extended formulations*  
+    - **[13:00 - 14:30]** Lunch Break
+    - **[14:30 - 16:00]** Francesco Rinaldi, *Frank–Wolfe and friends: a journey into projection-free optimization methods*
+    - **[16:00 - 16:30]** Coffee Break
+    - **[16:30 - 18:00]** Domenico Salvagnin, *Computational Research 101* 
 
-  - **[08:15 - 09:00]** Registration
-  - **[09:00 - 09:20]** Ph.D. School Opening  
-  - **[09:30 - 11:00]** Matteo Fischetti, *Benders and Bilevel Optimization*
-  - **[11:00 - 11:30]** Coffee Break
-  - **[11:30 - 13:00]** Marco Di Summa, *Comparing branch-and-bound, cutting planes, and extended formulations*  
-  - **[13:00 - 14:30]** Lunch Break
-  - **[14:30 - 16:00]** Francesco Rinaldi, *Frank–Wolfe and friends: a journey into projection-free optimization methods*
-  - **[16:00 - 16:30]** Coffee Break
-  - **[16:30 - 18:00]** Domenico Salvagnin, *Computational Research 101*  
 </details>
 
 ## Day 2 – Tuesday, February 10, 2026
@@ -103,7 +103,7 @@ Last update: January 28, 2026.
   - [16:20] Giovanni Spisso, The Maximum Clique Problem under Adversarial Uncertainty: a min-max approach
   - [16:40] Yasmany Fernández Fernández, Hybrid Strategy in the Robust Evacuation Problem Considering Network Complexities
 
-- **[17:00 - 19:30]** Social Event at Palazzo Bo sponsored by Hexaly, see (see [Events](/events/))
+- **[17:00 - 19:30]** Social Event at Palazzo Bo sponsored by Hexaly (see [Events page](/events/))
 
 ## Day 4 – Thursday, February 12, 2026
 
@@ -140,9 +140,9 @@ Last update: January 28, 2026.
 
 - **[16:50 - 17:20]** Coffee Break and Group Picture
 
-- **[17:20 - 18:30]** AIROYoung Roundtable, (see [Events](/events/))
+- **[17:20 - 18:30]** AIROYoung Roundtable, (see [Events page](/events/))
 
-- **[20:00 - 23:00]** Social Dinner at Osteria Antico Brolo (see [Events](/events/))
+- **[20:00 - 23:00]** Social Dinner at Osteria Antico Brolo (see [Events page](/events/))
 
 ## Day 5 – Friday, February 13, 2026
 
