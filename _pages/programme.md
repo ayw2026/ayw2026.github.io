@@ -5,24 +5,26 @@ permalink: /programme/
 author_profile: true
 ---
 
-We provide a preliminary programme of the event below and in [PDF](/files/10AYW-ProvisionalSchedule-v20260127.pdf).
+We provide a provisional programme of the event below and in [PDF](/files/10AYW-ProvisionalSchedule-v20260128.pdf).
 If you prefer, you can also view the [Google Sheets version of the schedule](#schedule-google-sheets).
 Please note that the schedule may be subject to change.
-Last update: January 27, 2026.
+Last update: January 28, 2026.
 
-## Day 1 – Monday, February 9, 2026
+<details>
+<summary>## Day 1 – Monday, February 9, 2026</summary>
 
 Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
 
 - **[08:15 - 09:00]** Registration
 - **[09:00 - 09:20]** Ph.D. School Opening  
-- **[09:30 - 11:00]** Matteo Fischetti, *Benders and Bilevel Optimization*  
+- **[09:30 - 11:00]** Matteo Fischetti, *Benders and Bilevel Optimization*
 - **[11:00 - 11:30]** Coffee Break
 - **[11:30 - 13:00]** Marco Di Summa, *Comparing branch-and-bound, cutting planes, and extended formulations*  
 - **[13:00 - 14:30]** Lunch Break
 - **[14:30 - 16:00]** Francesco Rinaldi, *Frank–Wolfe and friends: a journey into projection-free optimization methods*
 - **[16:00 - 16:30]** Coffee Break
 - **[16:30 - 18:00]** Domenico Salvagnin, *Computational Research 101*  
+</details>
 
 ## Day 2 – Tuesday, February 10, 2026
 
@@ -33,7 +35,7 @@ Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
 - **[09:20 - 11:00]** Session #1. *Transportation and Logistics I*
   - [09:20] Abdelouahab Moubane, Modeling and Optimization of Truck and Robot Routing without Robot-Depots
   - [09:40] Fabio Buffoli, Beating Highway Gridlock: Iterative User Equilibrium with Local Congestion Caps
-  - [10:00] Antonino Carè, Last-mile Delivery with Autonomous Robots and Public Transport Line
+  - [10:00] Antonino A. Carè, Last-mile Delivery with Autonomous Robots and Public Transport Line
   - [10:20] Pierre Vendé, The Electric Vehicle Fleet Composition Problem with temperature considerations
   - [10:40] Khaoula Kharfati, A Two-Stage Decomposition Method for the Electric Traveling Salesman Problem with Time Windows
 
@@ -46,7 +48,7 @@ Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
 
 - **[12:30 - 14:00]** Lunch Break
 
-- **[14:00 - 15:00]** Plenary Talk #1 by Wolfram Wiesemann
+- **[14:00 - 15:00]** Plenary Talk by Wolfram Wiesemann, *Large-Scale and Data-Driven Markov Decision Processes*
 
 - **[15:00 - 16:00]** Session #3. *Optimization under Uncertainty I*
   - [15:00] Federica Donnini, Heuristics for two-stage stochastic 𝐾-adaptability
@@ -59,7 +61,7 @@ Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
 
   - [16:30] Diego Scuppa, A gradient method with momentum for Riemannian manifolds
   - [16:50] Elisa Trasatti, Manifold optimization methods for the XY random field
-  - [17:10] Riccardo Tomassini, Combining discretization and exact penalty techniques in semi-inifite programming
+  - [17:10] Riccardo Tomassini, Combining discretization and exact penalty techniques in semi-infinite programming
 
 - **[17:30 - 18:30]** Session #5. *Energy and Environmental Applications I*
   - [17:30] Andrea Spinelli, A Stochastic Electric Vehicle Routing Problem under Uncertain Energy Consumption
@@ -77,7 +79,7 @@ Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
 
 - **[10:00 - 10:30]** Coffee Break
 
-- **[10:30 - 11:30]** Plenary Talk by Stefan Røpke
+- **[10:30 - 11:30]** Plenary Talk by Stefan Røpke, *Vehicle Routing Problems*
 
 - **[11:30 - 12:30]** Session #7. *Scheduling and Timetabling II*
   - [11:30] Alice Daldossi, Building a fair and efficient surgical unit: insights from academic vascular surgery
@@ -101,7 +103,7 @@ Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
   - [16:20] Giovanni Spisso, The Maximum Clique Problem under Adversarial Uncertainty: a min-max approach
   - [16:40] Yasmany Fernández Fernández, Hybrid Strategy in the Robust Evacuation Problem Considering Network Complexities
 
-- **[17:00 - 19:30]** Social Event at Palazzo Bo sponsored by Hexaly, see [Social Events page](/events/)
+- **[17:00 - 19:30]** Social Event at Palazzo Bo sponsored by Hexaly, see (see [Events](/events/))
 
 ## Day 4 – Thursday, February 12, 2026
 
@@ -114,7 +116,7 @@ Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
 
 - **[10:00 - 10:30]** Coffee Break
 
-- **[10:30 - 11:30]** Plenary Talk by Martine Labbé
+- **[10:30 - 11:30]** Plenary Talk by Martine Labbé, *Solving Chance-Constrained (mixed integer) Linear Optimization Problems with Branch-and Cut*
 
 - **[11:30 - 12:30]** Session #12. *Transportation and Logistics III*
   - [11:30] Alessia Ciacco Steiner, Traveling Salesman Problem with Time Windows and Pickup–Delivery: integrating classical and quantum optimization
@@ -123,7 +125,7 @@ Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
 
 - **[12:30 - 14:00]** Lunch Break
 
-- **[14:00 - 14:30]** Sponsor Session (Hexaly, Mosek)
+- **[14:00 - 14:30]** Sponsor Session: Hexaly and Mosek
 
 - **[14:30 - 15:30]** Session #13. *Advances in Mathematical Programming II*
   - [14:30] Edoardo Cesaroni, Derivative-Free Bilevel Optimization with Inexact Lower-Level Solutions
@@ -138,9 +140,9 @@ Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
 
 - **[16:50 - 17:20]** Coffee Break and Group Picture
 
-- **[17:20 - 18:30]** AIROYoung Roundtable, see [Social Events page](/events/)
+- **[17:20 - 18:30]** AIROYoung Roundtable, (see [Events](/events/))
 
-- **[20:00 - 23:00]** Social Dinner at Osteria Antico Brolo, see [Social Events page](/events/)
+- **[20:00 - 23:00]** Social Dinner at Osteria Antico Brolo (see [Events](/events/))
 
 ## Day 5 – Friday, February 13, 2026
 
@@ -153,7 +155,7 @@ Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
 
 - **[10:00 - 10:30]** Coffee Break
 
-- **[10:30 - 11:30]** Plenary Talk by Hande Yaman Paternotte
+- **[10:30 - 11:30]** Plenary Talk by Hande Yaman Paternotte, *Partitioning a Graph into Connected Components*
 
 - **[11:30 - 12:50]** Session #16. *Scheduling and Timetabling III*
   - [11:30] Silvia Iuliano, A Global Optimization-based Methodology for Providing Grid Ancillary Services by Electric Vehicles Scheduling
@@ -163,7 +165,7 @@ Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
 
 - **[12:50 - 14:00]** Lunch Break
 
-- **[14:00 - 14:40]** Sponsor Session #3 (FICO, CNR-IASI, CNR-IAC)
+- **[14:00 - 14:40]** Sponsor Session: FICO, CNR-IASI, and CNR-IAC
 
 - **[14:40 - 16:00]** Session #17. *Transportation and Logistics IV*
   - [14:40] Luca Dalla Costa, A Constrained Shortest Path Algorithm for Dynamic Airspace Configuration
