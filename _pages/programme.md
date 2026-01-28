@@ -11,19 +11,19 @@ Please note that the schedule may be subject to change.
 Last update: January 28, 2026.
 
 <details>
-<summary>## Day 1 – Monday, February 9, 2026</summary>
+<summary>Day 1 – Monday, February 9, 2026</summary>
 
-Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
+  Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
 
-- **[08:15 - 09:00]** Registration
-- **[09:00 - 09:20]** Ph.D. School Opening  
-- **[09:30 - 11:00]** Matteo Fischetti, *Benders and Bilevel Optimization*
-- **[11:00 - 11:30]** Coffee Break
-- **[11:30 - 13:00]** Marco Di Summa, *Comparing branch-and-bound, cutting planes, and extended formulations*  
-- **[13:00 - 14:30]** Lunch Break
-- **[14:30 - 16:00]** Francesco Rinaldi, *Frank–Wolfe and friends: a journey into projection-free optimization methods*
-- **[16:00 - 16:30]** Coffee Break
-- **[16:30 - 18:00]** Domenico Salvagnin, *Computational Research 101*  
+  - **[08:15 - 09:00]** Registration
+  - **[09:00 - 09:20]** Ph.D. School Opening  
+  - **[09:30 - 11:00]** Matteo Fischetti, *Benders and Bilevel Optimization*
+  - **[11:00 - 11:30]** Coffee Break
+  - **[11:30 - 13:00]** Marco Di Summa, *Comparing branch-and-bound, cutting planes, and extended formulations*  
+  - **[13:00 - 14:30]** Lunch Break
+  - **[14:30 - 16:00]** Francesco Rinaldi, *Frank–Wolfe and friends: a journey into projection-free optimization methods*
+  - **[16:00 - 16:30]** Coffee Break
+  - **[16:30 - 18:00]** Domenico Salvagnin, *Computational Research 101*  
 </details>
 
 ## Day 2 – Tuesday, February 10, 2026
