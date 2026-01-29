@@ -5,10 +5,10 @@ permalink: /programme/
 author_profile: true
 ---
 
-We provide a provisional programme of the event below and in [PDF](/files/10AYW-ProvisionalSchedule-v20260128.pdf).
+We provide a provisional programme of the event below and in [PDF](/files/10AYW-ProvisionalSchedule-v20260129.pdf).
 If you prefer, you can also view the [Google Sheets version of the schedule](#schedule-google-sheets).
 Please note that the schedule may be subject to change.
-Last update: January 28, 2026.
+Last update: January 29, 2026.
 
 ## Day 1 – Monday, February 9, 2026
 
@@ -39,12 +39,14 @@ Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
 
 - **[11:00 - 11:30]** Coffee Break
 
-- **[11:30 - 12:30]** Session #2. *Scheduling and Timetabling I*
-  - [11:30] Annalisa Castelletti, Batch Scheduling with Compatible Families and Setups: Enhanced MILP Formulations
-  - [11:50] Lorenzo Tomasetti, A Comprehensive Hybrid Flow Shop Scheduling Model for Steelmaking and Ingot Casting
-  - [12:10] Marco Zunino, University Timetabling with Professor Preferences: Exact and Heuristic Methods
+- **[11:30 - 11:40]** Institutional greetings by Bruno Chiarellotto, Head of the Department of Mathematics of the University of Padova
 
-- **[12:30 - 14:00]** Lunch Break
+- **[11:40 - 12:40]** Session #2. *Scheduling and Timetabling I*
+  - [11:40] Annalisa Castelletti, Batch Scheduling with Compatible Families and Setups: Enhanced MILP Formulations
+  - [12:00] Lorenzo Tomasetti, A Comprehensive Hybrid Flow Shop Scheduling Model for Steelmaking and Ingot Casting
+  - [12:20] Marco Zunino, University Timetabling with Professor Preferences: Exact and Heuristic Methods
+
+- **[12:40 - 14:00]** Lunch Break
 
 - **[14:00 - 15:00]** Plenary Talk by Wolfram Wiesemann, *Large-Scale and Data-Driven Markov Decision Processes*
 
@@ -118,7 +120,7 @@ Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
 
 - **[11:30 - 12:30]** Session #12. *Transportation and Logistics III*
   - [11:30] Alessia Ciacco Steiner, Traveling Salesman Problem with Time Windows and Pickup–Delivery: integrating classical and quantum optimization
-  - [11:50] Federico Michelotto, A Novel Decomposition Scheme for the CVRP
+  - [11:50] Carlo Maria Aloe, Bi-Objective Programming for Time–Energy AS/RS Cycle Planning in Single-Deep Racking
   - [12:10] Sara Stoia, Crowdshipping and Locker Solutions for Dynamic Last-Mile Delivery
 
 - **[12:30 - 14:00]** Lunch Break
@@ -169,7 +171,7 @@ Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
   - [14:40] Luca Dalla Costa, A Constrained Shortest Path Algorithm for Dynamic Airspace Configuration
   - [15:00] Filippo Magi, Tactical Deconfliction with Speed and Path Modifications for Urban Air Mobility
   - [15:20] Yingzhi Wang, Airport subsidy for air-HSR intermodal service in a multi-airport system: Direct amount vs. discount
-  - [15:40] Carlo Maria Aloe, Bi-Objective Programming for Time–Energy AS/RS Cycle Planning in Single-Deep Racking
+  - [15:40] Federico Michelotto, A Novel Decomposition Scheme for the CVRP
 
 - **[16:00 - 16:30]** Coffee Break
 
