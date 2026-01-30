@@ -25,10 +25,10 @@ As in previous editions of the AIROYoung Workshop, there will be short presentat
 **Title**: Conic optimization for system building <br/> 
 **Abstract**: In applications, optimization is embedded in a system performing a higher-level task, for example, workforce scheduling, trajectory optimization in robotics, etc. In this talk, we are going to highlight the strengths and usability of conic optimization in building applied optimization systems.
 
-### Italian National Research Council, Institute for System Analysis and Computer Science “Antonio Ruberti”, Marco Boresta
+### Italian National Research Council, Institute for System Analysis and Computer Science “Antonio Ruberti”, Marco Boresta, Postdoctoral Researcher
 
-**Title**: TBA <br/>
-**Abstract**: TBA 
+**Title**: Operations Research at IASI–CNR: Methods, Challenges, and Real-World Applications <br/>
+**Abstract**: The National Research Council of Italy (CNR) is the largest public research organization in the country. With more than 80 research institutes and approximately 6,000 researchers, CNR aims at producing new scientific knowledge, fostering technology transfer, and promoting research dissemination. This presentation focuses on the research activities carried out at the Institute for Systems Analysis and Computer Science (IASI–CNR), with particular emphasis on the Optima research group, whose work spans multiple Operations Research topics and integrates Artificial Intelligence methods for both research and technology transfer. After outlining the main research areas and methodological challenges addressed at IASI—ranging from optimization under uncertainty to sustainability and fairness-driven decision models—the talk illustrates some examples on how these approaches are applied to real-world problems. 
 
 ### Italian National Research Council, Institute for Applied Computing, Serena Fugaro, Senior Post-doc and Technology Transfer Officer
 
