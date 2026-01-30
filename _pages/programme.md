@@ -5,6 +5,8 @@ permalink: /programme/
 author_profile: true
 ---
 
+The Book of Abstracts is available [here](/files/10AYW-BookOfAbstracts.pdf).
+
 We provide a provisional programme of the event below and in [PDF](/files/10AYW-ProvisionalSchedule-v20260130.pdf).
 If you prefer, you can also view the [Google Sheets version of the schedule](#schedule-google-sheets).
 Please note that the schedule may be subject to change.
