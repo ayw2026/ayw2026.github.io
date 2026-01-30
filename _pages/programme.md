@@ -47,12 +47,12 @@ Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
 
 - **[12:40 - 14:00]** Lunch Break
 
-- **[14:00 - 15:00]** Session #3. *Optimization under Uncertainty I*
+- **[14:00 - 15:00]** Session #2. *Optimization under Uncertainty I*
   - [14:00] Federica Donnini, Heuristics for two-stage stochastic 𝐾-adaptability
   - [14:20] Hubert Villuendas, First-Order Methods for Distributionally Robust Mixed-Integer Optimization
   - [14:40] Soroush Fatemi-Anaraki, Network Flexibility Design Under Endogenous Uncertainty
 
-- **[15:00 - 16:00]** Session #2. *Scheduling and Timetabling I*
+- **[15:00 - 16:00]** Session #3. *Scheduling and Timetabling I*
   - [15:00] Annalisa Castelletti, Batch Scheduling with Compatible Families and Setups: Enhanced MILP Formulations
   - [15:20] Lorenzo Tomasetti, A Comprehensive Hybrid Flow Shop Scheduling Model for Steelmaking and Ingot Casting
   - [15:40] Marco Zunino, University Timetabling with Professor Preferences: Exact and Heuristic Methods
