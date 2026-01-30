@@ -5,10 +5,10 @@ permalink: /programme/
 author_profile: true
 ---
 
-We provide a provisional programme of the event below and in [PDF](/files/10AYW-ProvisionalSchedule-v20260129.pdf).
+We provide a provisional programme of the event below and in [PDF](/files/10AYW-ProvisionalSchedule-v20260130.pdf).
 If you prefer, you can also view the [Google Sheets version of the schedule](#schedule-google-sheets).
 Please note that the schedule may be subject to change.
-Last update: January 29, 2026.
+Last update: January 30, 2026.
 
 ## Day 1 – Monday, February 9, 2026
 
@@ -41,14 +41,14 @@ Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
 
 - **[11:30 - 11:40]** Institutional greetings by Bruno Chiarellotto, Head of the Department of Mathematics of the University of Padova
 
-- **[11:40 - 12:40]** Session #2. *Scheduling and Timetabling I*
-  - [11:40] Annalisa Castelletti, Batch Scheduling with Compatible Families and Setups: Enhanced MILP Formulations
-  - [12:00] Lorenzo Tomasetti, A Comprehensive Hybrid Flow Shop Scheduling Model for Steelmaking and Ingot Casting
-  - [12:20] Marco Zunino, University Timetabling with Professor Preferences: Exact and Heuristic Methods
+- **[11:40 - 12:40]** Plenary Talk by Wolfram Wiesemann, *Large-Scale and Data-Driven Markov Decision Processes*
 
 - **[12:40 - 14:00]** Lunch Break
 
-- **[14:00 - 15:00]** Plenary Talk by Wolfram Wiesemann, *Large-Scale and Data-Driven Markov Decision Processes*
+- **[14:00 - 15:00]** Session #2. *Scheduling and Timetabling I*
+  - [14:00] Annalisa Castelletti, Batch Scheduling with Compatible Families and Setups: Enhanced MILP Formulations
+  - [14:20] Lorenzo Tomasetti, A Comprehensive Hybrid Flow Shop Scheduling Model for Steelmaking and Ingot Casting
+  - [14:40] Marco Zunino, University Timetabling with Professor Preferences: Exact and Heuristic Methods
 
 - **[15:00 - 16:00]** Session #3. *Optimization under Uncertainty I*
   - [15:00] Federica Donnini, Heuristics for two-stage stochastic 𝐾-adaptability
