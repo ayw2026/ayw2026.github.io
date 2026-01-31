@@ -144,7 +144,7 @@ Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
 
 - **[17:20 - 18:30]** AIROYoung Roundtable, (see [Events page](/events/))
 
-- **[20:00 - 23:00]** Social Dinner at Osteria Antico Brolo (see [Events page](/events/)), with aperitifs and after-dinner drinks offered by the [Distilleria Brunello](https://www.brunello.it/it/), the oldest Italian artisan distillery.
+- **[20:00 - 23:00]** Social Dinner at [Osteria Antico Brolo](https://www.anticobrolo.it) (see [Events page](/events/)), with aperitifs and after-dinner drinks offered by [Distilleria Brunello](https://www.brunello.it/it/), the oldest Italian artisan distillery.
 
 ## Day 5 – Friday, February 13, 2026
 

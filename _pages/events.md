@@ -59,3 +59,4 @@ Speakers include:
 ## ⁠Social dinner -- February 12, 2026, 20:00 -- 23:00
 
 On Thursday evening, the social dinner will take place at [Osteria Antico Brolo](https://www.anticobrolo.it), located in the city center of Padua, at [Corso Milano 22](https://maps.app.goo.gl/ZVD6ayTuZ9x41RbX6).
+Aperitifs and after-dinner drinks will be offered by [Distilleria Brunello](https://www.brunello.it/it/), the oldest Italian artisan distillery.
