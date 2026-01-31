@@ -79,7 +79,7 @@ Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
   - [09:20] Roberto Ronco, On the Spectrum of Path-Length Density Matrices of Unrooted Binary Trees
   - [09:40] Stefano Ardizzoni, Shortest Path Problem with Functional Edge Costs
 
-- **[10:00 - 10:30]** Coffee Break
+- **[10:00 - 10:30]** Coffee Break sponsored by [Hexaly](https://www.hexaly.com)
 
 - **[10:30 - 11:30]** Plenary Talk by Stefan Røpke, *Vehicle Routing Problems*
 
@@ -105,7 +105,7 @@ Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
   - [16:20] Giovanni Spisso, The Maximum Clique Problem under Adversarial Uncertainty: a min-max approach
   - [16:40] Yasmany Fernández Fernández, Hybrid Strategy in the Robust Evacuation Problem Considering Network Complexities
 
-- **[17:00 - 19:30]** Social Event at Palazzo Bo sponsored by Hexaly, (see [Events page](/events/))
+- **[17:00 - 19:30]** Social Event at Palazzo Bo sponsored by [Hexaly](https://www.hexaly.com), (see [Events page](/events/))
 
 ## Day 4 – Thursday, February 12, 2026
 
@@ -127,7 +127,7 @@ Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
 
 - **[12:30 - 14:00]** Lunch Break
 
-- **[14:00 - 14:30]** Sponsor Session: Hexaly and Mosek
+- **[14:00 - 14:30]** Sponsor Session: [Hexaly](https://www.hexaly.com) and [Mosek](https://www.mosek.com)
 
 - **[14:30 - 15:30]** Session #13. *Scheduling and Timetabling III*
   - [14:30] Martina Luzzi, Human resources management in SMEs: an optimized and innovative framework
@@ -144,7 +144,7 @@ Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
 
 - **[17:20 - 18:30]** AIROYoung Roundtable, (see [Events page](/events/))
 
-- **[20:00 - 23:00]** Social Dinner at Osteria Antico Brolo (see [Events page](/events/))
+- **[20:00 - 23:00]** Social Dinner at Osteria Antico Brolo (see [Events page](/events/)), with aperitifs and after-dinner drinks offered by the [Distilleria Brunello](https://www.brunello.it/it/), the oldest Italian artisan distillery.
 
 ## Day 5 – Friday, February 13, 2026
 
@@ -167,7 +167,7 @@ Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
 
 - **[12:50 - 14:00]** Lunch Break
 
-- **[14:00 - 14:40]** Sponsor Session: FICO, CNR-IASI, and CNR-IAC
+- **[14:00 - 14:40]** Sponsor Session: [FICO](https://www.fico.com), [CNR-IASI](https://www.iasi.cnr.it), and [CNR-IAC](https://www.iac.cnr.it)
 
 - **[14:40 - 16:00]** Session #17. *Transportation and Logistics IV*
   - [14:40] Luca Dalla Costa, A Constrained Shortest Path Algorithm for Dynamic Airspace Configuration
@@ -182,7 +182,7 @@ Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
   - [16:50] Matteo Zanella, MIP Formulations for Delete-Free AI Planning
   - [17:10] Mariagrazia Cairo, On the Lagrangian Relaxation in a Bi-Objective Branch and Bound algorithm
 
-- **[17:30 - 18:00]** Closing
+- **[17:30 - 18:00]** Closing, including [OPTIT](https://optit.net) Best Presentation Award ceremony
 
 ---
 
