@@ -7,17 +7,17 @@ author_profile: true
 
 The Book of Abstracts is available [here](/files/10AYW-BookOfAbstracts.pdf).
 
-We provide a provisional programme of the event below and in [PDF](/files/10AYW-ProvisionalSchedule-v20260130.pdf).
+We provide a provisional programme of the event below and in [PDF](/files/10AYW-ProvisionalSchedule-v20260202.pdf).
 If you prefer, you can also view the [Google Sheets version of the schedule](#schedule-google-sheets).
 Please note that the schedule may be subject to change.
-Last update: January 30, 2026.
+Last update: February 02, 2026.
 
 ## Day 1 – Monday, February 9, 2026
 
 Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
 
 - **[08:15 - 09:00]** Registration
-- **[09:00 - 09:20]** Ph.D. School Opening  
+- **[09:00 - 09:20]** Ph.D. School Opening and institutional greetings by Giovanni Galfano, Director of the Polo Multifunzionale di Psicologia of the University of Padova
 - **[09:30 - 11:00]** Matteo Fischetti, *Benders and Bilevel Optimization*
 - **[11:00 - 11:30]** Coffee Break
 - **[11:30 - 13:00]** Marco Di Summa, *Comparing branch-and-bound, cutting planes, and branch-and-cut*  
