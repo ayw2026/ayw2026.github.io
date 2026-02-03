@@ -7,10 +7,10 @@ author_profile: true
 
 The Book of Abstracts is available [here](/files/10AYW-BookOfAbstracts.pdf).
 
-We provide a provisional programme of the event below and in [PDF](/files/10AYW-ProvisionalSchedule-v20260202.pdf).
+We provide a provisional programme of the event below and in [PDF](/files/10AYW-ProvisionalSchedule-v20260203.pdf).
 If you prefer, you can also view the [Google Sheets version of the schedule](#schedule-google-sheets).
 Please note that the schedule may be subject to change.
-Last update: February 02, 2026.
+Last update: February 03, 2026.
 
 ## Day 1 – Monday, February 9, 2026
 
@@ -47,15 +47,15 @@ Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
 
 - **[12:40 - 14:00]** Lunch Break
 
-- **[14:00 - 15:00]** Session #2. *Optimization under Uncertainty I*
+- **[14:00 - 14:40]** Session #2. *Optimization under Uncertainty I*
   - [14:00] Federica Donnini, Heuristics for two-stage stochastic 𝐾-adaptability
   - [14:20] Hubert Villuendas, First-Order Methods for Distributionally Robust Mixed-Integer Optimization
-  - [14:40] Soroush Fatemi-Anaraki, Network Flexibility Design Under Endogenous Uncertainty
 
-- **[15:00 - 16:00]** Session #3. *Scheduling and Timetabling I*
-  - [15:00] Annalisa Castelletti, Batch Scheduling with Compatible Families and Setups: Enhanced MILP Formulations
-  - [15:20] Lorenzo Tomasetti, A Comprehensive Hybrid Flow Shop Scheduling Model for Steelmaking and Ingot Casting
-  - [15:40] Marco Zunino, University Timetabling with Professor Preferences: Exact and Heuristic Methods
+- **[14:40 - 16:00]** Session #3. *Energy and Environmental Applications I*
+  - [14:40] Andrea Spinelli, A Stochastic Electric Vehicle Routing Problem under Uncertain Energy Consumption
+  - [15:00] Pietro Girardis, A Three-Stage Lexicographic Constraint Programming Approach for an Energy-Efficient Scheduling Problem
+  - [15:20] Leena Aizdi, Energy-Aware Sequencing and Routing in GreenWarehouses by Integrating Energy Management Systems and Renewable Energy
+  - [15:40] Katarzyna Godwska, Optimal Sectorization in Municipal Waste Collection Systems
 
 - **[16:00 - 16:30]** Coffee Break
 
@@ -65,10 +65,11 @@ Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
   - [16:50] Elisa Trasatti, Manifold optimization methods for the XY random field
   - [17:10] Riccardo Tomassini, Combining discretization and exact penalty techniques in semi-infinite programming
 
-- **[17:30 - 18:30]** Session #5. *Energy and Environmental Applications I*
-  - [17:30] Andrea Spinelli, A Stochastic Electric Vehicle Routing Problem under Uncertain Energy Consumption
-  - [17:50] Pietro Girardis, A Three-Stage Lexicographic Constraint Programming Approach for an Energy-Efficient Scheduling Problem
-  - [18:10] Leena Aizdi, Energy-Aware Sequencing and Routing in GreenWarehouses by Integrating Energy Management Systems and Renewable Energy
+- **[17:30 - 18:30]** Session #5. *Scheduling and Timetabling I*
+  - [15:00] Annalisa Castelletti, Batch Scheduling with Compatible Families and Setups: Enhanced MILP Formulations
+  - [15:20] Lorenzo Tomasetti, A Comprehensive Hybrid Flow Shop Scheduling Model for Steelmaking and Ingot Casting
+  - [15:40] Marco Zunino, University Timetabling with Professor Preferences: Exact and Heuristic Methods
+
 
 ## Day 3 – Wednesday, February 11, 2026
 
@@ -159,13 +160,12 @@ Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
 
 - **[10:30 - 11:30]** Plenary Talk by Hande Yaman Paternotte, *Partitioning a Graph into Connected Components*
 
-- **[11:30 - 12:50]** Session #16. *Scheduling and Timetabling IV*
+- **[11:30 - 12:30]** Session #16. *Scheduling and Timetabling IV*
   - [11:30] Silvia Iuliano, A Global Optimization-based Methodology for Providing Grid Ancillary Services by Electric Vehicles Scheduling
   - [11:50] Lingyuan Shi, Integrated optimization of train rescheduling and speed management during partial blockages: A decomposition approach
-  - [12:10] Xinyi Ye, On Makespan Scheduling with Stability
-  - [12:30] Marco Dottor, Efficient methods for large-scale cricket farming
+  - [12:10] Marco Dottor, Efficient methods for large-scale cricket farming
 
-- **[12:50 - 14:00]** Lunch Break
+- **[12:30 - 14:00]** Lunch Break
 
 - **[14:00 - 14:40]** Sponsor Session: [FICO](https://www.fico.com), [CNR-IASI](https://www.iasi.cnr.it), and [CNR-IAC](https://www.iac.cnr.it)
 
