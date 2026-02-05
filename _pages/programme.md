@@ -7,17 +7,17 @@ author_profile: true
 
 The Book of Abstracts is available [here](/files/10AYW-BookOfAbstracts.pdf).
 
-We provide a provisional programme of the event below and in [PDF](/files/10AYW-ProvisionalSchedule-v20260203.pdf).
+We provide a provisional programme of the event below and in [PDF](/files/10AYW-ProvisionalSchedule-v20260205.pdf).
 If you prefer, you can also view the [Google Sheets version of the schedule](#schedule-google-sheets).
 Please note that the schedule may be subject to change.
-Last update: February 03, 2026.
+Last update: February 05, 2026.
 
 ## Day 1 – Monday, February 9, 2026
 
 Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
 
-- **[08:15 - 09:00]** Registration
-- **[09:00 - 09:20]** Ph.D. School Opening and institutional greetings by Giovanni Galfano, Director of the Polo Multifunzionale di Psicologia of the University of Padova
+- **[08:15 - 09:20]** Registration
+- **[09:20 - 09:30]** Ph.D. School Opening
 - **[09:30 - 11:00]** Matteo Fischetti, *Benders and Bilevel Optimization*
 - **[11:00 - 11:30]** Coffee Break
 - **[11:30 - 13:00]** Marco Di Summa, *Comparing branch-and-bound, cutting planes, and branch-and-cut*  
@@ -130,9 +130,9 @@ Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
 
 - **[14:00 - 14:30]** Sponsor Session: [Hexaly](https://www.hexaly.com) and [Mosek](https://www.mosek.com)
 
-- **[14:30 - 15:30]** Session #13. *Scheduling and Timetabling III*
+- **[14:30 - 15:30]** Session #13. *Decision Support Systems I*
   - [14:30] Martina Luzzi, Human resources management in SMEs: an optimized and innovative framework
-  - [14:50] Alex Fabián Barrales Araneda, Heuristic Approaches for Timetabling and Vehicle Scheduling with Electric Buses
+  - [14:50] Silvia Iuliano, A Global Optimization-based Methodology for Providing Grid Ancillary Services by Electric Vehicles Scheduling
   - [15:10] Serena Fugaro, A Soft-Constrained Multi-Objective Facility Location approach to design a Household Waste Recycling Centres network in UK
 
 - **[15:30 - 16:50]** Session #14. Learning-based Optimization
@@ -160,8 +160,8 @@ Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
 
 - **[10:30 - 11:30]** Plenary Talk by Hande Yaman Paternotte, *Partitioning a Graph into Connected Components*
 
-- **[11:30 - 12:30]** Session #16. *Scheduling and Timetabling IV*
-  - [11:30] Silvia Iuliano, A Global Optimization-based Methodology for Providing Grid Ancillary Services by Electric Vehicles Scheduling
+- **[11:30 - 12:30]** Session #16. *Scheduling and Timetabling III*
+  - [11:30] Alex Fabián Barrales Araneda, Heuristic Approaches for Timetabling and Vehicle Scheduling with Electric Buses
   - [11:50] Lingyuan Shi, Integrated optimization of train rescheduling and speed management during partial blockages: A decomposition approach
   - [12:10] Marco Dottor, Efficient methods for large-scale cricket farming
 
