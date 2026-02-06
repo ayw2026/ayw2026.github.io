@@ -7,10 +7,10 @@ author_profile: true
 
 The Book of Abstracts is available [here](/files/10AYW-BookOfAbstracts.pdf).
 
-We provide a provisional programme of the event below and in [PDF](/files/10AYW-ProvisionalSchedule-v20260205.pdf).
+We provide a provisional programme of the event below and in [PDF](/files/10AYW-ProvisionalSchedule-v20260206.pdf).
 If you prefer, you can also view the [Google Sheets version of the schedule](#schedule-google-sheets).
 Please note that the schedule may be subject to change.
-Last update: February 05, 2026.
+Last update: February 06, 2026.
 
 ## Day 1 – Monday, February 9, 2026
 
