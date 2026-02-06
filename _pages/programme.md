@@ -66,9 +66,9 @@ Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
   - [17:10] Riccardo Tomassini, Combining discretization and exact penalty techniques in semi-infinite programming
 
 - **[17:30 - 18:30]** Session #5. *Scheduling and Timetabling I*
-  - [15:00] Annalisa Castelletti, Batch Scheduling with Compatible Families and Setups: Enhanced MILP Formulations
-  - [15:20] Lorenzo Tomasetti, A Comprehensive Hybrid Flow Shop Scheduling Model for Steelmaking and Ingot Casting
-  - [15:40] Marco Zunino, University Timetabling with Professor Preferences: Exact and Heuristic Methods
+  - [17:30] Annalisa Castelletti, Batch Scheduling with Compatible Families and Setups: Enhanced MILP Formulations
+  - [17:50] Lorenzo Tomasetti, A Comprehensive Hybrid Flow Shop Scheduling Model for Steelmaking and Ingot Casting
+  - [18:10] Marco Zunino, University Timetabling with Professor Preferences: Exact and Heuristic Methods
 
 
 ## Day 3 – Wednesday, February 11, 2026
