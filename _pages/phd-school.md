@@ -52,4 +52,4 @@ Please note that some slides may be blank or contain only a title because conten
 
 **Title**: Computational Research 101 <br/> 
 **Abstract**: In this talk, we discuss the joy and pain of computational research. We start from basic principles on experimental design, continue with tips and pitfalls in data analysis, and finally argue why software engineering best practices are relevant even in the context of academic research. We conclude with a few comments on how (not) to present empirical results.<br/> 
-**Slides**: [PDF](10AYW-PhDSchool-SalvagninDomenico-Benchmarking.pdf)
+**Slides**: [PDF](/files/10AYW-PhDSchool-SalvagninDomenico-Benchmarking.pdf)
