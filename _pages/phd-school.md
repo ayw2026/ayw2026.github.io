@@ -15,7 +15,7 @@ The Ph.D. School will take place on Monday, February 9th, 2026 and will feature 
 
 **Title**:  Comparing branch-and-bound, cutting planes, and branch-and-cut  <br/> 
 **Abstract**: In this lecture, we will explore what is known about the theoretical complexity of branch-and-bound, cutting-plane, and branch-and-cut algorithms for linear and convex mixed-integer optimization. We will compare the efficiency of these methods and discuss how their worst-case performance depends on the choice of branching strategy and cutting-plane paradigm.
-**Slides**: [PDF](/files/PhDSchool/10AYW-DiSummaMarco-ComparingBB-CP-BC.pdf)
+**Slides**: [PDF](/files/PhDSchool/10AYW-PhDSchool-DiSummaMarco-ComparingBB-CP-BC.pdf)
 Please note that some slides may be blank or contain only a title because content was added during the presentation on a tablet.
 
 ---
@@ -28,7 +28,7 @@ Please note that some slides may be blank or contain only a title because conten
 
 **Title**: Benders and Bilevel Optimization <br/> 
 **Abstract**: In this introductory talk, I will address Benders decomposition methods, and I will present some basic solution methods for Mixed-Integer Bilevel optimization. The talk is intended for Ph.D. students who are not working on these problems, but want to know more about them.
-**Slides**: [PDF1](/files/PhDSchool/10AYW-FischettiMatteo-Part1-BC-Benders.pdf), [PDF2](/files/PhDSchool/10AYW-FischettiMatteo-Part2-IC-BilevelOptimization.pdf)
+**Slides**: [PDF1](/files/PhDSchool/10AYW-PhDSchool-FischettiMatteo-Part1-BC-Benders.pdf), [PDF2](/files/PhDSchool/10AYW-PhDSchool-FischettiMatteo-Part2-IC-BilevelOptimization.pdf)
 
 ---
 
@@ -40,7 +40,7 @@ Please note that some slides may be blank or contain only a title because conten
 
 **Title**: Frank–Wolfe and friends: a journey into projection-free optimization methods  <br/> 
 **Abstract**: This lecture explores the use of projection-free algorithms, such as the  Frank-Wolfe Method and its variants, for constrained optimization problems. We analyse both  theoretical and computational properties of those methods. Additionally, we discuss some applications in, e.g., machine learning, and complex network analysis where the methods  enable scalable and efficient solutions. 
-**Slides**: [PDF](/files/PhDSchool/10AYW-RinaldiFrancesco-FrankWolfe.pdf)
+**Slides**: [PDF](/files/PhDSchool/10AYW-PhDSchool-RinaldiFrancesco-FrankWolfe.pdf)
 
 ---
 
