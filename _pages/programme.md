@@ -7,10 +7,10 @@ author_profile: true
 
 The Book of Abstracts is available [here](/files/10AYW-BookOfAbstracts.pdf).
 
-We provide a provisional programme of the event below and in [PDF](/files/10AYW-ProvisionalSchedule-v20260206.pdf).
+The PDF final programme of the event is available[here](/files/10AYW-FinalSchedule-v20260211.pdf).
 If you prefer, you can also view the [Google Sheets version of the schedule](#schedule-google-sheets).
 Please note that the schedule may be subject to change.
-Last update: February 06, 2026.
+Last update: February 11, 2026.
 
 ## Day 1 – Monday, February 9, 2026
 
@@ -126,7 +126,7 @@ Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
   - [11:50] Carlo Maria Aloe, Bi-Objective Programming for Time–Energy AS/RS Cycle Planning in Single-Deep Racking
   - [12:10] Sara Stoia, Crowdshipping and Locker Solutions for Dynamic Last-Mile Delivery
 
-- **[12:30 - 14:00]** Lunch Break
+- **[12:30 - 14:00]** Group Picture + Lunch Break
 
 - **[14:00 - 14:30]** Sponsor Session: [Hexaly](https://www.hexaly.com) and [Mosek](https://www.mosek.com)
 
@@ -141,7 +141,7 @@ Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
   - [16:10] Chiara Faccio, Fast and Simple Multiclass Data Segmentation: An Eigendecomposition and Projection-Free Approach
   - [16:30] Virginia Marcelli, Tailored Heuristics for Margin Optimal Regression Tree
 
-- **[16:50 - 17:20]** Coffee Break and Group Picture
+- **[16:50 - 17:20]** Coffee Break
 
 - **[17:20 - 18:30]** AIROYoung Roundtable, (see [Events page](/events/))
 
