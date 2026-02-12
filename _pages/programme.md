@@ -119,7 +119,7 @@ Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
 
 - **[10:00 - 10:30]** Coffee Break
 
-- **[10:30 - 11:30]** Plenary Talk by Martine Labbé, *Solving Chance-Constrained (mixed integer) Linear Optimization Problems with Branch-and Cut*
+- **[10:30 - 11:30]** Plenary Talk by Martine Labbé, *Multidimensional Disjunctive Inequalities for Linear Chance-Constrained Problems with Finite Support*
 
 - **[11:30 - 12:30]** Session #12. *Transportation and Logistics III*
   - [11:30] Alessia Ciacco Steiner, Traveling Salesman Problem with Time Windows and Pickup–Delivery: integrating classical and quantum optimization
