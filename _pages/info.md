@@ -42,7 +42,7 @@ If you have further questions, you can send an email to `airoyoungworkshop2026@g
 
 ---
 
-## Short Paper Submission – Deadline: February 14, 2026
+## Short Paper Submission – Deadline: February <s>14</s>28, 2026
 
 - Besides abstracts, young researchers and practitioners can submit a short paper as a book chapter of a future volume in the [AIRO Springer Series](https://link.springer.com/series/15947).
 - Attending the workshop is not mandatory for submitting a short paper.
