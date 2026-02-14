@@ -17,7 +17,7 @@ Last update: February 12, 2026.
 Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
 
 - **[08:15 - 09:20]** Registration
-- **[09:20 - 09:30]** Ph.D. School Opening
+- **[09:20 - 09:30]** Ph.D. School Opening – [PDF](/files/10AYW-PhDSchoolOpening.pdf)
 - **[09:30 - 11:00]** Matteo Fischetti, *Benders and Bilevel Optimization*
 - **[11:00 - 11:30]** Coffee Break
 - **[11:30 - 13:00]** Marco Di Summa, *Comparing branch-and-bound, cutting planes, and branch-and-cut*  
@@ -30,7 +30,7 @@ Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
 
 - **[08:30 - 09:00]** Registration
 
-- **[09:00 - 09:20]** Workshop Opening
+- **[09:00 - 09:20]** Workshop Opening – [PDF](/files/10AYW-WorkshopOpening.pdf)
 
 - **[09:20 - 11:00]** Session #1. *Transportation and Logistics I*
   - [09:20] Abdelouahab Moubane, Modeling and Optimization of Truck and Robot Routing without Robot-Depots
@@ -182,7 +182,7 @@ Ph.D. School, see lecture abstracts at [Ph.D. School page](/phd-school/).
   - [16:50] Matteo Zanella, MIP Formulations for Delete-Free AI Planning
   - [17:10] Mariagrazia Cairo, On the Lagrangian Relaxation in a Bi-Objective Branch and Bound algorithm
 
-- **[17:30 - 18:00]** Closing, including [OPTIT](https://optit.net) Best Presentation Award ceremony
+- **[17:30 - 18:00]** Closing, including [OPTIT](https://optit.net) Best Presentation Award ceremony – [PDF](/files/10AYW-Closing.pdf)
 
 ---
 

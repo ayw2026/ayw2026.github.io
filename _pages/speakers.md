@@ -11,7 +11,7 @@ author_profile: true
 
 **Short bio**: Martine Labbé is an honorary professor at the Université Libre de Bruxelles. She was a full professor from 2000 to 2019 and was president of EURO between 2007 and 2008. She has contributed substantially to various topics, including bilevel optimization, network optimization, location problems, routing, and machine learning. In 2019, she was the first female researcher to receive the EURO Gold Medal, the highest distinction in our field in Europe.
 
-**Title**: Solving Chance-Constrained (mixed integer) Linear Optimization Problems with Branch-and Cut <br/> 
+**Title**: Multidimensional Disjunctive Inequalities for Linear Chance-Constrained Problems with Finite Support <br/> 
 **Abstract**: We consider chance-constrained optimization problems (CCOPs), where constraints with random coefficients must hold with probability above a given threshold. Such problems arise frequently in energy applications and are NP-hard. In the linear case with random data of finite support, CCOPs can be reformulated as mixed-integer linear programs using big-M constants.
 We propose a Branch-and-Cut algorithm for linear CCOPs, introducing new valid inequalities and analyzing their closures. Theoretical and computational results demonstrate the strength of these inequalities compared to existing ones, confirming the effectiveness of the proposed approach.
 
