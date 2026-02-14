@@ -24,6 +24,8 @@ Alternatively, one can take a bus. Bus timetables can be checked on Google Maps 
 
 ## How to reach Padova
 
+![Padova](/images/home-padova-pic-prato.jpg)
+
 The venue can easily be reached from the Padova city center, the railway station, and the bus station with a 20-minute walk. Alternatively, one can take Bus 10 from the railway station and get off at the “Tommaseo 114” stop, right in front of the School
 of Psychology. Urban bus timetables can be checked on Google Maps or on the website of the company offering the service, i.e., BusItalia. There, one can also find information about accessibility measures (in [Italian](https://www.fsbusitalia.it/it/veneto/accessibilita.html) and [English](https://www.fsbusitalia.it/eng/link/support/accessibility.html))
 

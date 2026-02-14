@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Padova](/images/home-padova-pic-prato.jpg)
+![10AYW-GroupPicture](/images/10AYW-GroupPicture.jpg)
 
 We are pleased to invite you to the 10th AIROYoung Workshop. After the workshops held in Rome (2017, 2019, 2022), Cosenza (2018), Bozen (2020), Milan (2023), Rende (2024), Pavia (2025), and the online version organized in 2021, the 10th edition of AIROYoung Workshop, with the title **“Optimization between determinism and uncertainty”**, will be held in Padova (Italy), at the Università degli Studi di Padova, from the 9th to the 13th of February 2026. To celebrate this anniversary, the event will be enhanced with a Ph.D. School, which will take place on the first day (Monday, 9th February 2026).
 
