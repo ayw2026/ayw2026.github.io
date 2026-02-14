@@ -46,10 +46,10 @@ Speakers included:
 
 - Lavinia Amorosi, Sapienza University of Rome [[ORCID]](https://orcid.org/0000-0002-5480-9871)
 - Michele Barbato, University of Milan [[ORCID]](https://orcid.org/0000-0002-8521-896X)
-- Matteo Cosmi, University of Luxembourg [[ORCID]]()
+- Matteo Cosmi, University of Luxembourg [[ORCID]](https://orcid.org/0000-0001-5651-0243)
 - Veronica Dal Sasso, Siemens Mobility, former University of Padova [[ORCID]](https://orcid.org/0000-0001-9897-8768)
-- Martina Doneda, University of Bergamo [[ORCID]]()
-- Alessandro Druetto, University of Torino [[ORCID]]()
+- Martina Doneda, University of Bergamo [[ORCID]](https://orcid.org/0000-0002-1660-3100)
+- Alessandro Druetto, University of Torino [[ORCID]](https://orcid.org/0000-0002-8605-0193)
 - Martina Fischetti, University of Sevilla [[ORCID]](https://orcid.org/0000-0002-7673-6917)
 - Serena Fugaro, Italian National Research Council [[ORCID]](https://orcid.org/0000-0002-7140-3531)
 - Giusy Macrina, University of Calabria [[ORCID]](https://orcid.org/0000-0001-6762-3622)
