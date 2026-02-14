@@ -7,13 +7,13 @@ author_profile: true
 
 ## Hexaly Social Event -- February 11, 2026, 17:00 -- 19:30
 
-On Wednesday late afternoon, we will take a guided tour of [Palazzo Bo](https://www.unipd.it/en/visitbo), the historic heart of the University of Padua. The cultural event is kindly sponsored by [Hexaly](https://www.hexaly.com).
+On Wednesday late afternoon, we took a guided tour of [Palazzo Bo](https://www.unipd.it/en/visitbo), the historic heart of the University of Padua. The cultural event was kindly sponsored by [Hexaly](https://www.hexaly.com).
 
 ---
 
 ## Sponsor Sessions -- February 12-13, 2026, 14:00 -- 14:30
 
-As in previous editions of the AIROYoung Workshop, there will be short presentations by some companies and entities supporting the event. They will present their activities, tools, and applications in the fields of Operations Research and Optimization.
+As in previous editions of the AIROYoung Workshop, there were short presentations by some companies and entities supporting the event. They presented their activities, tools, and applications in the fields of Operations Research and Optimization.
 
 ### Hexaly, Julien Darlay, Co-Founder & Head of Science
 
@@ -39,14 +39,17 @@ As in previous editions of the AIROYoung Workshop, there will be short presentat
 
 ## ⁠AIROYoung Roundtable  -- February 12, 2026, 17:20 -- 18:30
 
-As part of the milestone 10th anniversary edition of the AIROYoung Workshop, we will hold a special roundtable featuring the founding members of AIROYoung, as well as the members of the previous AIROYoung boards (on-site or remotely).
-This session will offer insights into the origins of the AIROYoung chapter, its growth over the years, and the vision for its future. Nonetheless, we will discuss about what being early-career researchers means and the relevance of building one's own network.
+As part of the milestone 10th anniversary edition of the AIROYoung Workshop, we held a special roundtable featuring the founding members of AIROYoung, as well as the members of the previous AIROYoung boards (on-site or remotely).
+This session offered insights into the origins of the AIROYoung chapter, its growth over the years, and the vision for its future. Nonetheless, we discussed about what being early-career researchers means and the relevance of building one's own network.
 
-Speakers include:
+Speakers included:
 
 - Lavinia Amorosi, Sapienza University of Rome [[ORCID]](https://orcid.org/0000-0002-5480-9871)
 - Michele Barbato, University of Milan [[ORCID]](https://orcid.org/0000-0002-8521-896X)
+- Matteo Cosmi, University of Luxembourg [[ORCID]]()
 - Veronica Dal Sasso, Siemens Mobility, former University of Padova [[ORCID]](https://orcid.org/0000-0001-9897-8768)
+- Martina Doneda, University of Bergamo [[ORCID]]()
+- Alessandro Druetto, University of Torino [[ORCID]]()
 - Martina Fischetti, University of Sevilla [[ORCID]](https://orcid.org/0000-0002-7673-6917)
 - Serena Fugaro, Italian National Research Council [[ORCID]](https://orcid.org/0000-0002-7140-3531)
 - Giusy Macrina, University of Calabria [[ORCID]](https://orcid.org/0000-0001-6762-3622)
@@ -54,9 +57,11 @@ Speakers include:
 - Lorenzo Peirano, University of Brescia [[ORCID]](https://orcid.org/0000-0001-8042-6535)
 - Alberto Santini, Universitat Pompeu Fabra [[ORCID]](https://orcid.org/0000-0002-0440-0357)
 
+Available resources: [slides](/files/10AYW-Roundtable.pdf), [Wooclap results](/files/10AYW-AYRoundtable-Wooclap-results.pdf), [clips](https://drive.google.com/drive/folders/1KHsbrdIb1sgCKMvHSDOImwYj4pMmYlr3?usp=share_link), and [celebrating short video](https://drive.google.com/file/d/1YdJoAPOO-yHCKxOzHLN5xqU2n7k1kIZN/view?usp=share_link)
+
 ---
 
 ## ⁠Social dinner -- February 12, 2026, 20:00 -- 23:00
 
-On Thursday evening, the social dinner will take place at [Osteria Antico Brolo](https://www.anticobrolo.it), located in the city center of Padua, at [Corso Milano 22](https://maps.app.goo.gl/ZVD6ayTuZ9x41RbX6).
-Aperitifs and after-dinner drinks will be offered by [Distilleria Brunello](https://www.brunello.it/it/), the oldest Italian artisan distillery.
+On Thursday evening, the social dinner took place at [Osteria Antico Brolo](https://www.anticobrolo.it), located in the city center of Padua, at [Corso Milano 22](https://maps.app.goo.gl/ZVD6ayTuZ9x41RbX6).
+Aperitifs and after-dinner drinks were offered by [Distilleria Brunello](https://www.brunello.it/it/), the oldest Italian artisan distillery.

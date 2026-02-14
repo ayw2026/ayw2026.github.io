@@ -9,7 +9,7 @@ author_profile: true
 
 ![Psychology](/images/venue-psico-3.png)
 
-The conference will be held at the Department of Psychology in the [Aula A](https://psicologia.unipd.it/strutture/aule), in the PSICO3 Building, ground floor -- [Via Venezia 14, Padova](https://maps.app.goo.gl/u62iXh3fWgAXF9nE6)
+The conference was held at the Department of Psychology in the [Aula A](https://psicologia.unipd.it/strutture/aule), in the PSICO3 Building, ground floor -- [Via Venezia 14, Padova](https://maps.app.goo.gl/u62iXh3fWgAXF9nE6)
 
 ### Accessibility and inclusive measures at DEI and UNIPD
 
